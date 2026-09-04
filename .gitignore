@@ -1,0 +1,34 @@
+@"
+# Secrets
+.env
+
+# Cache / state
+data/bot_checkpoints/
+data/raw/
+data/injuries_seen.json
+data/lineups_manual.json
+data/last_auto_tune.json
+data/auto_tune_config.json
+data/retrain_run.log
+logs/
+
+# Models (large, regeneratable via 04_train_prematch.py + 08_train_goals.py)
+*.pkl
+models/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+"@ | Set-Content .gitignore -Encoding UTF8
+# Regeneratable / high-churn artefacts (rebuild via the pipeline)
+data/matches.csv
+data/match_features.csv
+data/team_elo_history.csv
+data/team_elo_current.csv
+data/cascade_forecast.csv
+data/tournament_sim_results.csv
+data/results_actual.csv
+data/forecast.json
+data/tips_wc2026.json

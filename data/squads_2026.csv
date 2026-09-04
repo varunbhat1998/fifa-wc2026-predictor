@@ -1,0 +1,1246 @@
+team,group,jersey_no,position,player,dob,age,caps,goals,club
+Czech Republic,A,1,GK,Matěj Kovář,,26,20,0,PSV Eindhoven
+Czech Republic,A,2,DF,David Zima,,25,25,1,Slavia Prague
+Czech Republic,A,3,DF,Tomáš Holeš,,33,41,2,Slavia Prague
+Czech Republic,A,4,DF,Robin Hranáč,,26,14,1,TSG Hoffenheim
+Czech Republic,A,5,DF,Vladimír Coufal,,33,62,2,TSG Hoffenheim
+Czech Republic,A,6,DF,Štěpán Chaloupek,,23,5,0,Slavia Prague
+Czech Republic,A,7,DF,Ladislav Krejčí (captain),,27,27,5,Wolverhampton Wanderers
+Czech Republic,A,8,MF,Vladimír Darida,,35,79,8,Hradec Králové
+Czech Republic,A,9,FW,Adam Hložek,,23,43,5,TSG Hoffenheim
+Czech Republic,A,10,FW,Patrik Schick,,30,53,26,Bayer Leverkusen
+Czech Republic,A,11,FW,Jan Kuchta,,29,31,3,Sparta Prague
+Czech Republic,A,12,MF,Lukáš Červ,,25,17,2,Viktoria Plzeň
+Czech Republic,A,13,FW,Mojmír Chytil,,27,22,6,Slavia Prague
+Czech Republic,A,14,DF,David Jurásek,,25,18,1,Slavia Prague
+Czech Republic,A,15,FW,Pavel Šulc,,25,21,5,Lyon
+Czech Republic,A,16,GK,Jindřich Staněk,,30,14,0,Slavia Prague
+Czech Republic,A,17,MF,Lukáš Provod,,29,38,3,Slavia Prague
+Czech Republic,A,18,MF,Michal Sadílek,,27,35,1,Slavia Prague
+Czech Republic,A,19,FW,Tomáš Chorý,,31,22,7,Slavia Prague
+Czech Republic,A,20,DF,Jaroslav Zelený,,33,23,0,Sparta Prague
+Czech Republic,A,21,DF,David Douděra,,28,17,2,Slavia Prague
+Czech Republic,A,22,MF,Tomáš Souček,,31,90,17,West Ham United
+Czech Republic,A,23,GK,Lukáš Horníček,,23,1,0,Braga
+Czech Republic,A,24,MF,Alexandr Sojka,,23,2,0,Viktoria Plzeň
+Czech Republic,A,25,MF,Hugo Sochůrek,,18,1,0,Sparta Prague
+Czech Republic,A,26,FW,Denis Višinský,,23,2,1,Viktoria Plzeň
+Mexico,A,1,GK,Raúl Rangel,,26,14,0,Guadalajara
+Mexico,A,2,DF,Jorge Sánchez,,28,59,3,PAOK
+Mexico,A,3,DF,César Montes,,29,67,4,Lokomotiv Moscow
+Mexico,A,4,DF,Edson Álvarez (captain),,28,98,7,Fenerbahçe
+Mexico,A,5,DF,Johan Vásquez,,27,46,3,Genoa
+Mexico,A,6,MF,Érik Lira,,26,25,0,Cruz Azul
+Mexico,A,7,MF,Luis Romo,,31,63,4,Guadalajara
+Mexico,A,8,MF,Álvaro Fidalgo,,29,4,0,Real Betis
+Mexico,A,9,FW,Raúl Jiménez,,35,124,45,Fulham
+Mexico,A,10,FW,Alexis Vega,,28,52,7,Toluca
+Mexico,A,11,FW,Santiago Giménez,,25,47,6,Milan
+Mexico,A,12,GK,Carlos Acevedo,,30,7,0,Santos Laguna
+Mexico,A,13,GK,Guillermo Ochoa,,40,152,0,AEL Limassol
+Mexico,A,14,FW,Armando González,,23,7,1,Guadalajara
+Mexico,A,15,DF,Israel Reyes,,26,34,2,América
+Mexico,A,16,FW,Julián Quiñones,,29,22,2,Al-Qadsiah
+Mexico,A,17,MF,Orbelín Pineda,,30,92,12,AEK Athens
+Mexico,A,18,MF,Obed Vargas,,20,6,0,Atlético Madrid
+Mexico,A,19,MF,Gilberto Mora,,17,8,0,Tijuana
+Mexico,A,20,DF,Mateo Chávez,,22,10,0,AZ
+Mexico,A,21,FW,César Huerta,,25,26,3,Anderlecht
+Mexico,A,22,FW,Guillermo Martínez,,31,12,3,Pumas
+Mexico,A,23,DF,Jesús Gallardo,,31,121,3,Toluca
+Mexico,A,24,MF,Luis Chávez,,30,45,5,Dynamo Moscow
+Mexico,A,25,FW,Roberto Alvarado,,27,67,5,Guadalajara
+Mexico,A,26,MF,Brian Gutiérrez,,22,7,2,Guadalajara
+South Africa,A,1,GK,Ronwen Williams (captain),,34,62,0,Mamelodi Sundowns
+South Africa,A,2,DF,Thabang Matuludi,,27,2,0,Polokwane City
+South Africa,A,3,DF,Khulumani Ndamane,,22,5,0,Mamelodi Sundowns
+South Africa,A,4,MF,Teboho Mokoena,,29,51,9,Mamelodi Sundowns
+South Africa,A,5,MF,Thalente Mbatha,,26,14,3,Orlando Pirates
+South Africa,A,6,DF,Aubrey Modiba,,30,44,3,Mamelodi Sundowns
+South Africa,A,7,FW,Oswin Appollis,,24,25,8,Orlando Pirates
+South Africa,A,8,FW,Tshepang Moremi,,25,9,1,Orlando Pirates
+South Africa,A,9,FW,Lyle Foster,,25,26,10,Burnley
+South Africa,A,10,FW,Relebohile Mofokeng,,21,12,0,Orlando Pirates
+South Africa,A,11,MF,Themba Zwane,,36,53,12,Mamelodi Sundowns
+South Africa,A,12,FW,Thapelo Maseko,,22,9,1,AEL Limassol
+South Africa,A,13,MF,Sphephelo Sithole,,27,27,1,Tondela
+South Africa,A,14,DF,Mbekezeli Mbokazi,,20,10,1,Chicago Fire FC
+South Africa,A,15,FW,Iqraam Rayners,,30,13,4,Mamelodi Sundowns
+South Africa,A,16,GK,Sipho Chaine,,29,3,0,Orlando Pirates
+South Africa,A,17,FW,Evidence Makgopa,,26,26,6,Orlando Pirates
+South Africa,A,18,DF,Samukele Kabini,,22,5,0,Molde
+South Africa,A,19,DF,Nkosinathi Sibisi,,30,19,0,Orlando Pirates
+South Africa,A,20,DF,Khuliso Mudau,,31,32,1,Mamelodi Sundowns
+South Africa,A,21,DF,Ime Okon,,22,7,1,Hannover 96
+South Africa,A,22,GK,Ricardo Goss,,32,4,0,Siwelele
+South Africa,A,23,MF,Jayden Adams,,25,4,0,Mamelodi Sundowns
+South Africa,A,24,DF,Olwethu Makhanya,,22,0,0,Philadelphia Union
+South Africa,A,25,FW,Kamogelo Sebelebele,,23,2,0,Orlando Pirates
+South Africa,A,26,DF,Bradley Cross,,25,0,0,Kaizer Chiefs
+South Korea,A,1,GK,Kim Seung-gyu,,35,87,0,FC Tokyo
+South Korea,A,2,DF,Lee Han-beom,,23,8,0,Midtjylland
+South Korea,A,3,MF,Lee Gi-hyuk,,25,3,0,Gangwon FC
+South Korea,A,4,DF,Kim Min-jae,,29,79,4,Bayern Munich
+South Korea,A,5,DF,Kim Tae-hyeon,,25,7,0,Kashima Antlers
+South Korea,A,6,MF,Hwang In-beom,,29,73,6,Feyenoord
+South Korea,A,7,FW,Son Heung-min (captain),,33,144,56,Los Angeles FC
+South Korea,A,8,MF,Paik Seung-ho,,29,27,3,Birmingham City
+South Korea,A,9,FW,Cho Gue-sung,,28,44,12,Midtjylland
+South Korea,A,10,MF,Lee Jae-sung,,33,105,15,Mainz 05
+South Korea,A,11,MF,Hwang Hee-chan,,30,79,17,Wolverhampton Wanderers
+South Korea,A,12,GK,Song Bum-keun,,28,3,0,Jeonbuk Hyundai Motors
+South Korea,A,13,DF,Lee Tae-seok,,23,15,1,Austria Wien
+South Korea,A,14,DF,Cho Wi-je,,24,1,0,Jeonbuk Hyundai Motors
+South Korea,A,15,DF,Kim Moon-hwan,,30,35,0,Daejeon Hana Citizen
+South Korea,A,16,DF,Park Jin-seob,,30,14,1,Zhejiang
+South Korea,A,17,MF,Bae Jun-ho,,22,13,2,Stoke City
+South Korea,A,18,FW,Oh Hyeon-gyu,,25,27,6,Beşiktaş
+South Korea,A,19,MF,Lee Kang-in,,25,47,11,Paris Saint-Germain
+South Korea,A,20,MF,Yang Hyun-jun,,24,9,0,Celtic
+South Korea,A,21,GK,Jo Hyeon-woo,,34,48,0,Ulsan HD
+South Korea,A,22,DF,Seol Young-woo,,27,34,0,Red Star Belgrade
+South Korea,A,23,DF,Jens Castrop,,22,7,0,Borussia Mönchengladbach
+South Korea,A,24,MF,Kim Jin-gyu,,29,22,3,Jeonbuk Hyundai Motors
+South Korea,A,25,MF,Eom Ji-sung,,24,9,2,Swansea City
+South Korea,A,26,MF,Lee Dong-gyeong,,28,18,4,Ulsan HD
+Bosnia and Herzegovina,B,1,GK,Nikola Vasilj,,30,26,0,FC St. Pauli
+Bosnia and Herzegovina,B,2,DF,Nihad Mujakić,,28,12,1,Gaziantep
+Bosnia and Herzegovina,B,3,DF,Dennis Hadžikadunić,,27,32,0,Sampdoria
+Bosnia and Herzegovina,B,4,DF,Tarik Muharemović,,23,14,1,Sassuolo
+Bosnia and Herzegovina,B,5,DF,Sead Kolašinac,,32,65,0,Atalanta
+Bosnia and Herzegovina,B,6,MF,Benjamin Tahirović,,23,28,2,Brøndby
+Bosnia and Herzegovina,B,7,DF,Amar Dedić,,23,28,1,Benfica
+Bosnia and Herzegovina,B,8,MF,Armin Gigović,,24,20,1,Young Boys
+Bosnia and Herzegovina,B,9,FW,Samed Baždar,,22,13,1,Jagiellonia Białystok
+Bosnia and Herzegovina,B,10,FW,Ermedin Demirović,,28,40,4,VfB Stuttgart
+Bosnia and Herzegovina,B,11,FW,Edin Džeko (captain),,40,148,73,Schalke 04
+Bosnia and Herzegovina,B,12,GK,Mladen Jurkas,,18,0,0,Borac Banja Luka
+Bosnia and Herzegovina,B,13,MF,Ivan Bašić,,24,17,0,Astana
+Bosnia and Herzegovina,B,14,MF,Ivan Šunjić,,29,11,0,Pafos
+Bosnia and Herzegovina,B,15,MF,Amar Memić,,25,13,1,Viktoria Plzeň
+Bosnia and Herzegovina,B,16,MF,Amir Hadžiahmetović,,29,36,0,Hull City
+Bosnia and Herzegovina,B,17,MF,Dženis Burnić,,28,20,0,Karlsruher SC
+Bosnia and Herzegovina,B,18,DF,Nikola Katić,,29,17,2,Schalke 04
+Bosnia and Herzegovina,B,19,FW,Kerim Alajbegović,,18,10,1,Red Bull Salzburg
+Bosnia and Herzegovina,B,20,FW,Esmir Bajraktarević,,21,16,1,PSV Eindhoven
+Bosnia and Herzegovina,B,21,DF,Stjepan Radeljić,,28,5,0,Rijeka
+Bosnia and Herzegovina,B,22,GK,Martin Zlomislić,,27,3,0,Rijeka
+Bosnia and Herzegovina,B,23,FW,Haris Tabaković,,31,10,4,Borussia Mönchengladbach
+Bosnia and Herzegovina,B,24,DF,Nidal Čelik,,19,2,0,Lens
+Bosnia and Herzegovina,B,25,FW,Jovo Lukić,,27,3,0,Universitatea Cluj
+Bosnia and Herzegovina,B,26,MF,Ermin Mahmić,,21,2,0,Slovan Liberec
+Canada,B,1,GK,Dayne St. Clair,,29,20,0,Inter Miami CF
+Canada,B,2,DF,Alistair Johnston,,27,58,1,Celtic
+Canada,B,3,DF,Alfie Jones,,28,2,0,Middlesbrough
+Canada,B,4,DF,Luc de Fougerolles,,20,13,0,Dender
+Canada,B,5,DF,Joel Waterman,,30,17,0,Chicago Fire FC
+Canada,B,6,MF,Mathieu Choinière,,27,23,0,Los Angeles FC
+Canada,B,7,MF,Stephen Eustáquio,,29,56,4,Los Angeles FC
+Canada,B,8,MF,Ismaël Koné,,23,40,4,Sassuolo
+Canada,B,9,FW,Cyle Larin,,31,90,30,Southampton
+Canada,B,10,FW,Jonathan David,,26,77,39,Juventus
+Canada,B,11,MF,Liam Millar,,26,41,1,Hull City
+Canada,B,12,FW,Tani Oluwaseyi,,26,24,2,Villarreal
+Canada,B,13,DF,Derek Cornelius,,28,44,1,Rangers
+Canada,B,14,MF,Jacob Shaffelburg,,26,31,6,Los Angeles FC
+Canada,B,15,DF,Moïse Bombito,,26,20,0,Nice
+Canada,B,16,GK,Maxime Crépeau,,32,32,0,Orlando City SC
+Canada,B,17,FW,Tajon Buchanan,,27,60,8,Villarreal
+Canada,B,18,GK,Owen Goodman,,22,0,0,Barnsley
+Canada,B,19,DF,Alphonso Davies (captain),,25,58,15,Bayern Munich
+Canada,B,20,FW,Ali Ahmed,,25,24,1,Norwich City
+Canada,B,21,MF,Jonathan Osorio,,33,90,10,Toronto FC
+Canada,B,22,DF,Richie Laryea,,31,75,1,Toronto FC
+Canada,B,23,DF,Niko Sigur,,22,19,2,Hajduk Split
+Canada,B,24,FW,Promise David,,24,10,3,Union Saint-Gilloise
+Canada,B,25,MF,Nathan Saliba,,22,15,2,Anderlecht
+Qatar,B,1,GK,Mahmud Abunada,,26,5,0,Al-Rayyan
+Qatar,B,2,DF,Pedro Miguel,,35,99,3,Al-Sadd
+Qatar,B,3,DF,Lucas Mendes,,35,25,1,Al-Wakrah
+Qatar,B,4,DF,Issa Laye,,28,4,0,Al-Arabi
+Qatar,B,5,DF,Jassem Gaber,,24,32,1,Al-Rayyan
+Qatar,B,6,MF,Abdulaziz Hatem,,36,117,11,Al-Rayyan
+Qatar,B,7,FW,Ahmed Alaaeldin,,33,68,9,Al-Rayyan
+Qatar,B,8,FW,Edmilson Junior,,31,16,0,Al-Duhail
+Qatar,B,9,FW,Mohammed Muntari,,32,67,16,Al-Gharafa
+Qatar,B,10,FW,Hassan Al-Haydos (captain),,35,186,41,Al-Sadd
+Qatar,B,11,FW,Akram Afif,,29,125,39,Al-Sadd
+Qatar,B,12,MF,Karim Boudiaf,,35,118,5,Al-Duhail
+Qatar,B,13,DF,Ayoub Al-Oui,,21,6,0,Al-Gharafa
+Qatar,B,14,DF,Homam Ahmed,,26,68,3,Cultural Leonesa
+Qatar,B,15,FW,Yusuf Abdurisag,,26,39,3,Al-Wakrah
+Qatar,B,16,DF,Boualem Khoukhi,,35,116,20,Al-Sadd
+Qatar,B,17,MF,Ahmed Al-Ganehi,,25,13,1,Al-Gharafa
+Qatar,B,18,DF,Sultan Al-Brake,,30,17,0,Al-Duhail
+Qatar,B,19,FW,Almoez Ali,,29,115,55,Al-Duhail
+Qatar,B,20,MF,Ahmed Fathy,,33,48,0,Al-Arabi
+Qatar,B,21,GK,Salah Zakaria,,27,8,0,Al-Duhail
+Qatar,B,22,GK,Meshaal Barsham,,28,52,0,Al-Sadd
+Qatar,B,23,MF,Assim Madibo,,29,51,0,Al-Wakrah
+Qatar,B,24,FW,Tahsin Jamshid,,19,3,0,Al-Duhail
+Qatar,B,25,DF,Al-Hashmi Al-Hussain,,22,8,0,Al-Arabi
+Qatar,B,26,FW,Mohamed Manai,,23,10,0,Al-Shamal
+Switzerland,B,1,GK,Gregor Kobel,,28,21,0,Borussia Dortmund
+Switzerland,B,2,DF,Miro Muheim,,28,10,0,Hamburger SV
+Switzerland,B,3,DF,Silvan Widmer,,33,60,5,Mainz 05
+Switzerland,B,4,DF,Nico Elvedi,,29,67,3,Borussia Mönchengladbach
+Switzerland,B,5,DF,Manuel Akanji,,30,81,4,Inter Milan
+Switzerland,B,6,MF,Denis Zakaria,,29,65,3,Monaco
+Switzerland,B,7,FW,Breel Embolo,,29,86,24,Rennes
+Switzerland,B,8,MF,Remo Freuler,,34,88,11,Bologna
+Switzerland,B,9,MF,Johan Manzambi,,20,12,3,SC Freiburg
+Switzerland,B,10,MF,Granit Xhaka (captain),,33,146,17,Sunderland
+Switzerland,B,11,FW,Dan Ndoye,,25,31,8,Nottingham Forest
+Switzerland,B,12,GK,Yvon Mvogo,,32,13,0,Lorient
+Switzerland,B,13,DF,Ricardo Rodriguez,,33,138,9,Real Betis
+Switzerland,B,14,MF,Ardon Jashari,,23,8,0,Milan
+Switzerland,B,15,MF,Djibril Sow,,29,52,0,Sevilla
+Switzerland,B,16,FW,Christian Fassnacht,,32,23,5,Young Boys
+Switzerland,B,17,FW,Rubén Vargas,,27,61,11,Sevilla
+Switzerland,B,18,DF,Eray Cömert,,28,22,0,Valencia
+Switzerland,B,19,FW,Noah Okafor,,26,25,2,Leeds United
+Switzerland,B,20,MF,Michel Aebischer,,29,40,2,Pisa
+Switzerland,B,21,GK,Marvin Keller,,23,1,0,Young Boys
+Switzerland,B,22,MF,Fabian Rieder,,24,28,1,FC Augsburg
+Switzerland,B,23,FW,Zeki Amdouni,,25,29,11,Burnley
+Switzerland,B,24,DF,Aurèle Amenda,,22,7,0,Eintracht Frankfurt
+Switzerland,B,25,DF,Luca Jaquez,,23,3,0,VfB Stuttgart
+Switzerland,B,26,FW,Cedric Itten,,29,15,5,Fortuna Düsseldorf
+Brazil,C,1,GK,Alisson,,33,78,0,Liverpool
+Brazil,C,2,MF,Éderson Silva,,26,3,0,Atalanta
+Brazil,C,3,DF,Gabriel Magalhães,,28,17,1,Arsenal
+Brazil,C,4,DF,Marquinhos (captain),,32,105,7,Paris Saint-Germain
+Brazil,C,5,MF,Casemiro,,34,86,9,Manchester United
+Brazil,C,6,DF,Alex Sandro,,35,45,2,Flamengo
+Brazil,C,7,FW,Vinícius Júnior,,25,49,9,Real Madrid
+Brazil,C,8,MF,Bruno Guimarães,,28,43,3,Newcastle United
+Brazil,C,9,FW,Matheus Cunha,,27,23,1,Manchester United
+Brazil,C,10,FW,Neymar,,34,128,79,Santos
+Brazil,C,11,FW,Raphinha,,29,39,11,Barcelona
+Brazil,C,12,GK,Weverton,,38,11,0,Grêmio
+Brazil,C,13,DF,Danilo Luiz,,34,70,1,Flamengo
+Brazil,C,14,DF,Bremer,,29,8,1,Juventus
+Brazil,C,15,DF,Léo Pereira,,30,4,0,Flamengo
+Brazil,C,16,DF,Douglas Santos,,32,7,0,Zenit Saint Petersburg
+Brazil,C,17,MF,Fabinho,,32,33,0,Al-Ittihad
+Brazil,C,18,MF,Danilo Santos,,25,4,2,Botafogo
+Brazil,C,19,FW,Endrick,,19,17,4,Lyon
+Brazil,C,20,MF,Lucas Paquetá,,28,63,13,Flamengo
+Brazil,C,21,FW,Luiz Henrique,,25,15,2,Zenit Saint Petersburg
+Brazil,C,22,FW,Gabriel Martinelli,,24,23,4,Arsenal
+Brazil,C,23,GK,Ederson Moraes,,32,32,0,Fenerbahçe
+Brazil,C,24,DF,Roger Ibañez,,27,7,0,Al-Ahli
+Brazil,C,25,FW,Igor Thiago,,24,4,2,Brentford
+Brazil,C,26,FW,Rayan,,19,2,1,Bournemouth
+Haiti,C,1,GK,Johny Placide (captain),,38,81,0,Bastia
+Haiti,C,2,DF,Carlens Arcus,,29,53,1,Angers
+Haiti,C,3,DF,Keeto Thermoncy,,20,1,0,Young Boys
+Haiti,C,4,DF,Ricardo Adé,,36,59,2,LDU Quito
+Haiti,C,5,DF,Hannes Delcroix,,27,7,0,Lugano
+Haiti,C,6,MF,Carl Sainté,,23,26,0,El Paso Locomotive FC
+Haiti,C,7,FW,Derrick Etienne Jr.,,29,48,8,Toronto FC
+Haiti,C,8,DF,Martin Expérience,,27,21,0,Nancy
+Haiti,C,9,FW,Duckens Nazon,,32,78,44,Esteghlal
+Haiti,C,10,MF,Jean-Ricner Bellegarde,,27,10,0,Wolverhampton Wanderers
+Haiti,C,11,FW,Louicius Deedson,,25,32,10,FC Dallas
+Haiti,C,12,GK,Alexandre Pierre,,25,15,0,Sochaux
+Haiti,C,13,DF,Duke Lacroix,,32,16,3,Colorado Springs Switchbacks FC
+Haiti,C,14,MF,Leverton Pierre,,28,33,0,Vizela
+Haiti,C,15,FW,Ruben Providence,,24,15,3,Almere City
+Haiti,C,16,FW,Lenny Joseph,,25,2,1,Ferencváros
+Haiti,C,17,MF,Danley Jean Jacques,,26,30,6,Philadelphia Union
+Haiti,C,18,FW,Wilson Isidor,,25,4,2,Sunderland
+Haiti,C,19,FW,Yassin Fortuné,,27,4,0,Vizela
+Haiti,C,20,FW,Frantzdy Pierrot,,31,51,34,Çaykur Rizespor
+Haiti,C,21,FW,Josué Casimir,,24,7,0,Auxerre
+Haiti,C,22,DF,Jean-Kévin Duverne,,28,17,1,Gent
+Haiti,C,23,GK,Josué Duverger,,26,6,0,Cosmos Koblenz
+Haiti,C,24,DF,Wilguens Paugain,,24,8,0,Zulte Waregem
+Haiti,C,25,MF,Dominique Simon,,25,2,0,Tatran Prešov
+Haiti,C,26,MF,Woodensky Pierre,,21,1,0,Violette
+Morocco,C,1,GK,Yassine Bounou,,35,90,0,Al-Hilal
+Morocco,C,2,DF,Achraf Hakimi (captain),,27,96,11,Paris Saint-Germain
+Morocco,C,3,DF,Noussair Mazraoui,,28,45,2,Manchester United
+Morocco,C,4,MF,Sofyan Amrabat,,29,75,0,Real Betis
+Morocco,C,5,DF,Nayef Aguerd,,30,64,2,Marseille
+Morocco,C,6,MF,Ayyoub Bouaddi,,18,4,0,Lille
+Morocco,C,7,MF,Chemsdine Talbi,,21,5,0,Sunderland
+Morocco,C,8,MF,Azzedine Ounahi,,26,49,9,Girona
+Morocco,C,9,FW,Soufiane Rahimi,,30,37,12,Al Ain
+Morocco,C,10,FW,Brahim Díaz,,26,26,14,Real Madrid
+Morocco,C,11,MF,Ismael Saibari,,25,31,9,PSV Eindhoven
+Morocco,C,12,GK,Munir Mohamedi,,37,53,0,RS Berkane
+Morocco,C,13,DF,Zakaria El Ouahdi,,24,3,0,Genk
+Morocco,C,14,DF,Issa Diop,,29,4,0,Fulham
+Morocco,C,15,MF,Samir El Mourabet,,20,4,0,Strasbourg
+Morocco,C,16,MF,Gessime Yassine,,20,5,0,Strasbourg
+Morocco,C,17,FW,Abde Ezzalzouli,,24,37,2,Real Betis
+Morocco,C,18,DF,Chadi Riad,,22,6,1,Crystal Palace
+Morocco,C,19,DF,Youssef Belammari,,27,19,0,Al Ahly
+Morocco,C,20,FW,Ayoub El Kaabi,,32,71,35,Olympiacos
+Morocco,C,21,FW,Ayoube Amaimouni,,21,2,0,Eintracht Frankfurt
+Morocco,C,22,GK,Ahmed Reda Tagnaouti,,30,3,0,AS FAR
+Morocco,C,23,MF,Bilal El Khannouss,,22,37,3,VfB Stuttgart
+Morocco,C,24,MF,Neil El Aynaoui,,24,16,2,Roma
+Morocco,C,25,DF,Redouane Halhal,,23,3,0,Mechelen
+Morocco,C,26,DF,Anass Salah-Eddine,,24,9,0,PSV Eindhoven
+Scotland,C,1,GK,Angus Gunn,,30,22,0,Nottingham Forest
+Scotland,C,2,DF,Aaron Hickey,,24,21,0,Brentford
+Scotland,C,3,DF,Andy Robertson (captain),,32,94,4,Liverpool
+Scotland,C,4,MF,Scott McTominay,,29,70,15,Napoli
+Scotland,C,5,DF,Grant Hanley,,34,68,2,Hibernian
+Scotland,C,6,DF,Kieran Tierney,,29,56,2,Celtic
+Scotland,C,7,MF,John McGinn,,31,86,20,Aston Villa
+Scotland,C,8,MF,Tyler Fletcher,,19,2,0,Manchester United
+Scotland,C,9,FW,Lyndon Dykes,,30,51,10,Charlton Athletic
+Scotland,C,10,FW,Ché Adams,,29,47,13,Torino
+Scotland,C,11,MF,Ryan Christie,,31,68,10,Bournemouth
+Scotland,C,12,GK,Liam Kelly,,30,3,0,Rangers
+Scotland,C,13,DF,Jack Hendry,,31,38,3,Al-Ettifaq
+Scotland,C,14,FW,Ross Stewart,,29,3,0,Southampton
+Scotland,C,15,DF,John Souttar,,29,24,2,Rangers
+Scotland,C,16,DF,Dominic Hyam,,30,4,0,Wrexham
+Scotland,C,17,FW,Ben Gannon-Doak,,20,14,1,Bournemouth
+Scotland,C,18,FW,George Hirst,,27,10,1,Ipswich Town
+Scotland,C,19,MF,Lewis Ferguson,,26,24,1,Bologna
+Scotland,C,20,FW,Lawrence Shankland,,30,20,7,Heart of Midlothian
+Scotland,C,21,GK,Craig Gordon,,43,84,0,Heart of Midlothian
+Scotland,C,22,DF,Nathan Patterson,,24,26,1,Everton
+Scotland,C,23,MF,Kenny McLean,,34,58,3,Norwich City
+Scotland,C,24,DF,Anthony Ralston,,27,27,1,Celtic
+Scotland,C,25,FW,Findlay Curtis,,20,3,1,Kilmarnock
+Scotland,C,26,DF,Scott McKenna,,29,50,1,Dinamo Zagreb
+Australia,D,1,GK,Mathew Ryan (captain),,34,104,0,Levante
+Australia,D,2,DF,Miloš Degenek,,32,57,1,APOEL
+Australia,D,3,DF,Alessandro Circati,,22,13,1,Parma
+Australia,D,4,DF,Jacob Italiano,,24,5,0,Grazer AK
+Australia,D,5,DF,Jordan Bos,,23,27,4,Feyenoord
+Australia,D,6,DF,Jason Geria,,33,14,0,Albirex Niigata
+Australia,D,7,FW,Mathew Leckie,,35,80,14,Melbourne City
+Australia,D,8,MF,Connor Metcalfe,,26,36,1,FC St. Pauli
+Australia,D,9,FW,Mohamed Touré,,22,10,2,Norwich City
+Australia,D,10,FW,Ajdin Hrustic,,29,37,4,Heracles Almelo
+Australia,D,11,FW,Awer Mabil,,30,38,10,Castellón
+Australia,D,12,GK,Paul Izzo,,31,4,0,Randers
+Australia,D,13,MF,Aiden O'Neill,,27,31,0,New York City FC
+Australia,D,14,MF,Cammy Devlin,,28,5,0,Heart of Midlothian
+Australia,D,15,DF,Kai Trewin,,25,6,0,New York City FC
+Australia,D,16,DF,Aziz Behich,,35,84,3,Melbourne City
+Australia,D,17,FW,Nestory Irankunda,,20,15,5,Watford
+Australia,D,18,GK,Patrick Beach,,22,2,0,Melbourne City
+Australia,D,19,DF,Harry Souttar,,27,38,11,Leicester City
+Australia,D,20,FW,Cristian Volpato,,22,1,0,Sassuolo
+Australia,D,21,DF,Cameron Burgess,,30,27,0,Swansea City
+Australia,D,22,MF,Jackson Irvine,,33,82,14,FC St. Pauli
+Australia,D,23,FW,Nishan Velupillay,,25,7,3,Melbourne Victory
+Australia,D,24,MF,Paul Okon-Engstler,,21,6,0,Sydney FC
+Australia,D,25,DF,Lucas Herrington,,18,4,0,Colorado Rapids
+Australia,D,26,FW,Tete Yengi,,25,1,1,Machida Zelvia
+Paraguay,D,1,GK,Gatito Fernández,,38,31,0,Cerro Porteño
+Paraguay,D,2,DF,Gustavo Velázquez,,35,13,1,Cerro Porteño
+Paraguay,D,3,DF,Omar Alderete,,29,36,3,Sunderland
+Paraguay,D,4,DF,Juan José Cáceres,,26,17,0,Dynamo Moscow
+Paraguay,D,5,DF,Fabián Balbuena,,34,48,2,Grêmio
+Paraguay,D,6,DF,Júnior Alonso,,33,71,3,Atlético Mineiro
+Paraguay,D,7,MF,Ramón Sosa,,26,29,1,Palmeiras
+Paraguay,D,8,MF,Diego Gómez,,23,24,3,Brighton & Hove Albion
+Paraguay,D,9,FW,Antonio Sanabria,,30,48,7,Cremonese
+Paraguay,D,10,MF,Miguel Almirón,,32,76,10,Atlanta United FC
+Paraguay,D,11,MF,Maurício,,24,3,0,Palmeiras
+Paraguay,D,12,GK,Orlando Gill,,26,6,0,San Lorenzo
+Paraguay,D,13,DF,José Canale,,29,2,0,Lanús
+Paraguay,D,14,MF,Andrés Cubas,,30,33,0,Vancouver Whitecaps FC
+Paraguay,D,15,DF,Gustavo Gómez (captain),,33,89,4,Palmeiras
+Paraguay,D,16,MF,Damián Bobadilla,,24,19,1,São Paulo
+Paraguay,D,17,FW,Kaku,,31,33,6,Al Ain
+Paraguay,D,18,FW,Álex Arce,,30,15,1,Independiente Rivadavia
+Paraguay,D,19,FW,Julio Enciso,,22,32,4,Strasbourg
+Paraguay,D,20,MF,Braian Ojeda,,25,17,0,Orlando City SC
+Paraguay,D,21,FW,Gabriel Ávalos,,35,23,2,Independiente
+Paraguay,D,22,GK,Gastón Olveira,,33,1,0,Olimpia
+Paraguay,D,23,MF,Matías Galarza,,24,15,3,Atlanta United FC
+Paraguay,D,24,MF,Gustavo Caballero,,24,2,1,Portsmouth
+Paraguay,D,25,FW,Isidro Pitta,,26,5,0,Red Bull Bragantino
+Paraguay,D,26,DF,Alexandro Maidana,,20,2,1,Talleres
+Turkey,D,1,GK,Mert Günok,,37,37,0,Fenerbahçe
+Turkey,D,2,DF,Zeki Çelik,,29,61,3,Roma
+Turkey,D,3,DF,Merih Demiral,,28,62,6,Al-Ahli
+Turkey,D,4,DF,Çağlar Söyüncü,,30,60,2,Fenerbahçe
+Turkey,D,5,MF,Salih Özcan,,28,30,1,Borussia Dortmund
+Turkey,D,6,MF,Orkun Kökçü,,25,50,4,Beşiktaş
+Turkey,D,7,FW,Kerem Aktürkoğlu,,27,52,15,Fenerbahçe
+Turkey,D,8,FW,Arda Güler,,21,29,6,Real Madrid
+Turkey,D,9,FW,Deniz Gül,,21,8,2,Porto
+Turkey,D,10,MF,Hakan Çalhanoğlu (captain),,32,105,22,Inter Milan
+Turkey,D,11,FW,Kenan Yıldız,,21,28,5,Juventus
+Turkey,D,12,GK,Altay Bayındır,,28,12,0,Manchester United
+Turkey,D,13,DF,Eren Elmalı,,25,23,0,Galatasaray
+Turkey,D,14,DF,Abdülkerim Bardakcı,,31,27,2,Galatasaray
+Turkey,D,15,DF,Ozan Kabak,,26,30,2,TSG Hoffenheim
+Turkey,D,16,MF,İsmail Yüksek,,27,32,1,Fenerbahçe
+Turkey,D,17,FW,İrfan Can Kahveci,,30,47,6,Kasımpaşa
+Turkey,D,18,DF,Mert Müldür,,27,45,3,Fenerbahçe
+Turkey,D,19,FW,Yunus Akgün,,25,19,4,Galatasaray
+Turkey,D,20,DF,Ferdi Kadıoğlu,,26,30,2,Brighton & Hove Albion
+Turkey,D,21,FW,Barış Alper Yılmaz,,26,35,4,Galatasaray
+Turkey,D,22,MF,Kaan Ayhan,,31,73,5,Galatasaray
+Turkey,D,23,GK,Uğurcan Çakır,,30,39,0,Galatasaray
+Turkey,D,24,FW,Oğuz Aydın,,25,11,0,Fenerbahçe
+Turkey,D,25,DF,Samet Akaydin,,32,19,1,Çaykur Rizespor
+Turkey,D,26,FW,Can Uzun,,20,6,1,Eintracht Frankfurt
+United States,D,1,GK,Matt Turner,,31,54,0,New England Revolution
+United States,D,2,DF,Sergiño Dest,,25,39,3,PSV Eindhoven
+United States,D,3,DF,Chris Richards,,26,36,3,Crystal Palace
+United States,D,4,MF,Tyler Adams,,27,54,2,Bournemouth
+United States,D,5,DF,Antonee Robinson,,28,54,5,Fulham
+United States,D,6,DF,Auston Trusty,,27,8,0,Celtic
+United States,D,7,MF,Giovanni Reyna,,23,38,9,Borussia Mönchengladbach
+United States,D,8,MF,Weston McKennie,,27,66,12,Juventus
+United States,D,9,FW,Ricardo Pepi,,23,37,13,PSV Eindhoven
+United States,D,10,FW,Christian Pulisic,,27,86,33,Milan
+United States,D,11,FW,Brenden Aaronson,,25,58,9,Leeds United
+United States,D,12,DF,Miles Robinson,,29,40,3,FC Cincinnati
+United States,D,13,DF,Tim Ream (captain),,38,82,1,Charlotte FC
+United States,D,14,MF,Sebastian Berhalter,,25,13,1,Vancouver Whitecaps FC
+United States,D,15,MF,Cristian Roldan,,31,47,0,Seattle Sounders FC
+United States,D,16,DF,Alex Freeman,,21,17,2,Villarreal
+United States,D,17,MF,Malik Tillman,,24,30,3,Bayer Leverkusen
+United States,D,18,DF,Max Arfsten,,25,20,1,Columbus Crew
+United States,D,19,FW,Haji Wright,,28,20,7,Coventry City
+United States,D,20,FW,Folarin Balogun,,24,27,9,Monaco
+United States,D,21,FW,Timothy Weah,,26,51,7,Marseille
+United States,D,22,DF,Mark McKenzie,,27,29,0,Toulouse
+United States,D,23,DF,Joe Scally,,23,26,0,Borussia Mönchengladbach
+United States,D,24,GK,Matt Freese,,27,15,0,New York City FC
+United States,D,25,GK,Chris Brady,,22,1,0,Chicago Fire FC
+United States,D,26,FW,Alejandro Zendejas,,28,14,2,América
+Curacao,E,1,GK,Eloy Room,,37,71,0,Miami FC
+Curacao,E,2,DF,Shurandy Sambo,,24,8,0,Sparta Rotterdam
+Curacao,E,3,DF,Juriën Gaari,,32,60,1,Abha
+Curacao,E,4,DF,Roshon van Eijma,,28,28,1,RKC Waalwijk
+Curacao,E,5,DF,Sherel Floranus,,27,28,0,PEC Zwolle
+Curacao,E,6,MF,Godfried Roemeratoe,,26,28,1,RKC Waalwijk
+Curacao,E,7,MF,Juninho Bacuna,,28,49,15,Volendam
+Curacao,E,8,MF,Livano Comenencia,,22,20,2,Zürich
+Curacao,E,9,FW,Jürgen Locadia,,32,13,1,Miami FC
+Curacao,E,10,MF,Leandro Bacuna (captain),,34,72,16,Iğdır
+Curacao,E,11,FW,Jeremy Antonisse,,24,27,4,Kifisia
+Curacao,E,12,FW,Sontje Hansen,,24,6,1,Middlesbrough
+Curacao,E,13,FW,Tyrese Noslin,,23,7,1,Telstar
+Curacao,E,14,FW,Kenji Gorré,,31,38,6,Maccabi Haifa
+Curacao,E,15,MF,Ar'jany Martha,,22,9,2,Rotherham United
+Curacao,E,16,FW,Jearl Margaritha,,26,22,5,Beveren
+Curacao,E,17,FW,Brandley Kuwas,,33,35,2,Volendam
+Curacao,E,18,DF,Armando Obispo,,27,6,0,PSV Eindhoven
+Curacao,E,19,FW,Gervane Kastaneer,,30,29,9,Terengganu
+Curacao,E,20,DF,Joshua Brenet,,32,18,2,Kayserispor
+Curacao,E,21,MF,Tahith Chong,,26,6,3,Sheffield United
+Curacao,E,22,MF,Kevin Felida,,26,19,1,Den Bosch
+Curacao,E,23,DF,Riechedly Bazoer,,29,5,0,Konyaspor
+Curacao,E,24,DF,Deveron Fonville,,23,2,0,NEC
+Curacao,E,25,GK,Tyrick Bodak,,24,4,0,Telstar
+Curacao,E,26,GK,Trevor Doornbusch,,26,8,0,VVV-Venlo
+Ecuador,E,1,GK,Hernán Galíndez,,39,35,0,Huracán
+Ecuador,E,2,DF,Félix Torres,,29,49,5,Internacional
+Ecuador,E,3,DF,Piero Hincapié,,24,52,3,Arsenal
+Ecuador,E,4,DF,Joel Ordóñez,,22,17,0,Club Brugge
+Ecuador,E,5,MF,Jordy Alcívar,,26,11,1,Independiente del Valle
+Ecuador,E,6,DF,Willian Pacho,,24,34,2,Paris Saint-Germain
+Ecuador,E,7,DF,Pervis Estupiñán,,28,54,5,Milan
+Ecuador,E,8,MF,Anthony Valencia,,22,3,1,Antwerp
+Ecuador,E,9,FW,John Yeboah,,25,23,3,Venezia
+Ecuador,E,10,MF,Kendry Páez,,19,26,2,River Plate
+Ecuador,E,11,FW,Kevin Rodríguez,,26,31,2,Union Saint-Gilloise
+Ecuador,E,12,GK,Moisés Ramírez,,25,7,0,Kifisia
+Ecuador,E,13,FW,Enner Valencia (captain),,36,105,49,Pachuca
+Ecuador,E,14,MF,Alan Minda,,23,20,2,Atlético Mineiro
+Ecuador,E,15,MF,Pedro Vite,,24,17,1,UNAM
+Ecuador,E,16,FW,Jordy Caicedo,,28,20,4,Huracán
+Ecuador,E,17,DF,Ángelo Preciado,,28,55,0,Atlético Mineiro
+Ecuador,E,18,MF,Denil Castillo,,22,5,0,Midtjylland
+Ecuador,E,19,FW,Gonzalo Plata,,25,50,8,Flamengo
+Ecuador,E,20,FW,Nilson Angulo,,22,14,2,Sunderland
+Ecuador,E,21,MF,Alan Franco,,27,58,1,Atlético Mineiro
+Ecuador,E,22,GK,Gonzalo Valle,,30,4,0,LDU Quito
+Ecuador,E,23,MF,Moisés Caicedo,,24,61,3,Chelsea
+Ecuador,E,24,FW,Jeremy Arévalo,,21,4,0,VfB Stuttgart
+Ecuador,E,25,DF,Jackson Porozo,,25,10,1,Tijuana
+Ecuador,E,26,DF,Yaimar Medina,,21,6,0,Genk
+Germany,E,1,GK,Manuel Neuer,,40,124,0,Bayern Munich
+Germany,E,2,DF,Antonio Rüdiger,,33,82,3,Real Madrid
+Germany,E,3,DF,Waldemar Anton,,29,13,0,Borussia Dortmund
+Germany,E,4,DF,Jonathan Tah,,30,47,1,Bayern Munich
+Germany,E,5,MF,Aleksandar Pavlović,,22,11,1,Bayern Munich
+Germany,E,6,DF,Joshua Kimmich (captain),,31,110,10,Bayern Munich
+Germany,E,7,FW,Kai Havertz,,27,58,22,Arsenal
+Germany,E,8,MF,Leon Goretzka,,31,70,15,Bayern Munich
+Germany,E,9,MF,Jamie Leweling,,25,5,1,VfB Stuttgart
+Germany,E,10,MF,Jamal Musiala,,23,42,9,Bayern Munich
+Germany,E,11,FW,Nick Woltemade,,24,11,4,Newcastle United
+Germany,E,12,GK,Oliver Baumann,,36,13,0,TSG Hoffenheim
+Germany,E,13,MF,Pascal Groß,,34,18,1,Brighton & Hove Albion
+Germany,E,14,FW,Maximilian Beier,,23,9,0,Borussia Dortmund
+Germany,E,15,DF,Nico Schlotterbeck,,26,27,0,Borussia Dortmund
+Germany,E,16,MF,Angelo Stiller,,25,8,0,VfB Stuttgart
+Germany,E,17,MF,Florian Wirtz,,23,41,11,Liverpool
+Germany,E,18,DF,Nathaniel Brown,,22,5,0,Eintracht Frankfurt
+Germany,E,19,MF,Leroy Sané,,30,76,17,Galatasaray
+Germany,E,20,MF,Nadiem Amiri,,29,11,1,Mainz 05
+Germany,E,21,GK,Alexander Nübel,,29,3,0,VfB Stuttgart
+Germany,E,22,DF,David Raum,,28,37,1,RB Leipzig
+Germany,E,23,MF,Felix Nmecha,,25,8,1,Borussia Dortmund
+Germany,E,24,DF,Malick Thiaw,,24,5,0,Newcastle United
+Germany,E,25,MF,Assan Ouédraogo,,20,1,1,RB Leipzig
+Germany,E,26,FW,Deniz Undav,,29,9,6,VfB Stuttgart
+Ivory Coast,E,1,GK,Yahia Fofana,,25,35,0,Çaykur Rizespor
+Ivory Coast,E,2,DF,Ousmane Diomande,,22,15,1,Sporting CP
+Ivory Coast,E,3,DF,Ghislain Konan,,30,54,0,Gil Vicente
+Ivory Coast,E,4,MF,Jean Michaël Seri,,34,65,4,Maribor
+Ivory Coast,E,5,DF,Wilfried Singo,,25,34,1,Galatasaray
+Ivory Coast,E,6,MF,Seko Fofana,,31,32,7,Porto
+Ivory Coast,E,7,DF,Odilon Kossounou,,25,35,0,Atalanta
+Ivory Coast,E,8,MF,Franck Kessié (captain),,29,103,15,Al-Ahli
+Ivory Coast,E,9,FW,Ange-Yoan Bonny,,22,1,0,Inter Milan
+Ivory Coast,E,10,FW,Simon Adingra,,24,29,5,Monaco
+Ivory Coast,E,11,FW,Yan Diomande,,19,10,3,RB Leipzig
+Ivory Coast,E,12,FW,Elye Wahi,,23,2,0,Nice
+Ivory Coast,E,13,DF,Christopher Opéri,,29,12,0,İstanbul Başakşehir
+Ivory Coast,E,14,FW,Oumar Diakité,,22,29,6,Cercle Brugge
+Ivory Coast,E,15,FW,Amad Diallo,,23,19,6,Manchester United
+Ivory Coast,E,16,GK,Mohamed Koné,,24,0,0,Charleroi
+Ivory Coast,E,17,DF,Guéla Doué,,23,20,3,Strasbourg
+Ivory Coast,E,18,MF,Ibrahim Sangaré,,28,58,12,Nottingham Forest
+Ivory Coast,E,19,FW,Nicolas Pépé,,31,55,12,Villarreal
+Ivory Coast,E,20,DF,Emmanuel Agbadou,,28,20,2,Beşiktaş
+Ivory Coast,E,21,DF,Evan Ndicka,,26,28,0,Roma
+Ivory Coast,E,22,FW,Evann Guessand,,24,21,4,Crystal Palace
+Ivory Coast,E,23,GK,Alban Lafont,,27,4,0,Panathinaikos
+Ivory Coast,E,24,FW,Bazoumana Touré,,20,6,2,TSG Hoffenheim
+Ivory Coast,E,25,MF,Parfait Guiagon,,25,5,0,Charleroi
+Ivory Coast,E,26,MF,Christ Inao Oulaï,,20,9,0,Trabzonspor
+Japan,F,1,GK,Zion Suzuki,,23,24,0,Parma
+Japan,F,2,DF,Yukinari Sugawara,,25,21,2,Werder Bremen
+Japan,F,3,DF,Shōgo Taniguchi,,34,38,1,Sint-Truiden
+Japan,F,4,DF,Kō Itakura,,29,40,2,Ajax
+Japan,F,5,DF,Yūto Nagatomo,,39,145,4,FC Tokyo
+Japan,F,6,MF,Wataru Endo (captain),,33,73,4,Liverpool
+Japan,F,7,MF,Ao Tanaka,,27,38,8,Leeds United
+Japan,F,8,MF,Takefusa Kubo,,25,49,7,Real Sociedad
+Japan,F,9,FW,Keisuke Gotō,,21,4,0,Sint-Truiden
+Japan,F,10,MF,Ritsu Dōan,,27,65,11,Eintracht Frankfurt
+Japan,F,11,MF,Daizen Maeda,,28,27,4,Celtic
+Japan,F,12,GK,Keisuke Ōsako,,26,11,0,Sanfrecce Hiroshima
+Japan,F,13,MF,Keito Nakamura,,25,25,10,Reims
+Japan,F,14,MF,Junya Itō,,33,69,15,Genk
+Japan,F,15,MF,Daichi Kamada,,29,49,12,Crystal Palace
+Japan,F,16,DF,Tsuyoshi Watanabe,,29,11,0,Feyenoord
+Japan,F,17,MF,Yuito Suzuki,,24,6,0,SC Freiburg
+Japan,F,18,FW,Ayase Ueda,,27,39,16,Feyenoord
+Japan,F,19,FW,Kōki Ogawa,,28,15,11,NEC
+Japan,F,20,DF,Ayumu Seko,,26,14,0,Le Havre
+Japan,F,21,DF,Hiroki Itō,,27,24,1,Bayern Munich
+Japan,F,22,DF,Takehiro Tomiyasu,,27,43,1,Ajax
+Japan,F,23,GK,Tomoki Hayakawa,,27,4,0,Kashima Antlers
+Japan,F,24,MF,Kaishū Sano,,25,13,0,Mainz 05
+Japan,F,25,DF,Junnosuke Suzuki,,22,6,0,Copenhagen
+Japan,F,26,FW,Kento Shiogai,,21,2,0,VfL Wolfsburg
+Netherlands,F,1,GK,Bart Verbruggen,,23,29,0,Brighton & Hove Albion
+Netherlands,F,2,DF,Lutsharel Geertruida,,25,21,0,Sunderland
+Netherlands,F,3,MF,Marten de Roon,,35,43,1,Atalanta
+Netherlands,F,4,DF,Virgil van Dijk (captain),,34,92,12,Liverpool
+Netherlands,F,5,DF,Nathan Aké,,31,59,5,Manchester City
+Netherlands,F,6,DF,Jan Paul van Hecke,,26,12,0,Brighton & Hove Albion
+Netherlands,F,7,MF,Justin Kluivert,,27,12,0,Bournemouth
+Netherlands,F,8,MF,Ryan Gravenberch,,24,27,1,Liverpool
+Netherlands,F,9,FW,Wout Weghorst,,33,52,14,Ajax
+Netherlands,F,10,FW,Memphis Depay,,32,109,55,Corinthians
+Netherlands,F,11,FW,Cody Gakpo,,27,50,21,Liverpool
+Netherlands,F,12,DF,Mats Wieffer,,26,15,1,Brighton & Hove Albion
+Netherlands,F,13,GK,Robin Roefs,,23,1,0,Sunderland
+Netherlands,F,14,MF,Tijjani Reijnders,,27,32,7,Manchester City
+Netherlands,F,15,DF,Micky van de Ven,,25,21,1,Tottenham Hotspur
+Netherlands,F,16,MF,Guus Til,,28,7,1,PSV Eindhoven
+Netherlands,F,17,FW,Noa Lang,,26,15,3,Galatasaray
+Netherlands,F,18,FW,Donyell Malen,,27,53,13,Roma
+Netherlands,F,19,FW,Brian Brobbey,,24,12,1,Sunderland
+Netherlands,F,20,MF,Teun Koopmeiners,,28,28,3,Juventus
+Netherlands,F,21,MF,Frenkie de Jong,,29,66,2,Barcelona
+Netherlands,F,22,DF,Denzel Dumfries,,30,72,11,Inter Milan
+Netherlands,F,23,GK,Mark Flekken,,32,12,0,Bayer Leverkusen
+Netherlands,F,24,FW,Crysencio Summerville,,24,2,0,West Ham United
+Netherlands,F,25,DF,Jorrel Hato,,20,8,0,Chelsea
+Netherlands,F,26,MF,Quinten Timber,,24,11,1,Marseille
+Sweden,F,1,GK,Jacob Widell Zetterström,,27,3,0,Derby County
+Sweden,F,2,DF,Gustaf Lagerbielke,,26,11,2,Braga
+Sweden,F,3,DF,Victor Lindelöf (captain),,31,76,3,Aston Villa
+Sweden,F,4,DF,Isak Hien,,27,29,0,Atalanta
+Sweden,F,5,DF,Gabriel Gudmundsson,,27,24,0,Leeds United
+Sweden,F,6,DF,Herman Johansson,,28,3,0,FC Dallas
+Sweden,F,7,MF,Lucas Bergvall,,20,10,0,Tottenham Hotspur
+Sweden,F,8,DF,Daniel Svensson,,24,13,0,Borussia Dortmund
+Sweden,F,9,FW,Alexander Isak,,26,58,17,Liverpool
+Sweden,F,10,MF,Benjamin Nygren,,24,11,3,Celtic
+Sweden,F,11,FW,Anthony Elanga,,24,30,6,Newcastle United
+Sweden,F,12,GK,Viktor Johansson,,27,12,0,Stoke City
+Sweden,F,13,MF,Ken Sema,,32,33,5,Pafos
+Sweden,F,14,DF,Hjalmar Ekdal,,27,13,0,Burnley
+Sweden,F,15,DF,Carl Starfelt,,31,18,0,Celta Vigo
+Sweden,F,16,MF,Jesper Karlström,,30,25,0,Udinese
+Sweden,F,17,FW,Viktor Gyökeres,,28,33,20,Arsenal
+Sweden,F,18,MF,Yasin Ayari,,22,21,3,Brighton & Hove Albion
+Sweden,F,19,MF,Mattias Svanberg,,27,41,2,VfL Wolfsburg
+Sweden,F,20,DF,Eric Smith,,29,2,0,FC St. Pauli
+Sweden,F,21,DF,Alexander Bernhardsson,,27,11,0,Holstein Kiel
+Sweden,F,22,MF,Besfort Zeneli,,23,8,0,Union Saint-Gilloise
+Sweden,F,23,GK,Kristoffer Nordfeldt,,36,21,0,AIK
+Sweden,F,24,DF,Elliot Stroud,,23,1,0,Mjällby AIF
+Sweden,F,25,FW,Gustaf Nilsson,,29,10,4,Club Brugge
+Sweden,F,26,FW,Taha Ali,,27,2,0,Malmö FF
+Tunisia,F,1,GK,Mouhib Chamakh,,24,2,0,Club Africain
+Tunisia,F,2,DF,Ali Abdi,,32,46,7,Nice
+Tunisia,F,3,DF,Montassar Talbi,,28,64,4,Lorient
+Tunisia,F,4,DF,Omar Rekik,,24,6,0,Maribor
+Tunisia,F,5,DF,Adem Arous,,21,2,0,Kasımpaşa
+Tunisia,F,6,DF,Dylan Bronn,,30,52,2,Servette
+Tunisia,F,7,FW,Elias Achouri,,27,30,4,Copenhagen
+Tunisia,F,8,FW,Elias Saad,,26,15,4,Hannover 96
+Tunisia,F,9,FW,Hazem Mastouri,,28,19,4,Dynamo Makhachkala
+Tunisia,F,10,MF,Hannibal Mejbri,,23,45,1,Burnley
+Tunisia,F,11,MF,Ismaël Gharbi,,22,17,2,FC Augsburg
+Tunisia,F,12,DF,Mortadha Ben Ouanes,,31,18,0,Kasımpaşa
+Tunisia,F,13,MF,Rani Khedira,,32,3,0,Union Berlin
+Tunisia,F,14,MF,Khalil Ayari,,21,4,0,Paris Saint-Germain
+Tunisia,F,15,MF,Hadj Mahmoud,,26,9,0,Lugano
+Tunisia,F,16,GK,Aymen Dahmen,,29,37,0,CS Sfaxien
+Tunisia,F,17,MF,Ellyes Skhiri (captain),,31,83,4,Eintracht Frankfurt
+Tunisia,F,18,FW,Rayan Elloumi,,18,4,0,Vancouver Whitecaps FC
+Tunisia,F,19,FW,Firas Chaouat,,30,30,6,Club Africain
+Tunisia,F,20,DF,Yan Valery,,27,22,0,Young Boys
+Tunisia,F,21,DF,Mohamed Amine Ben Hamida,,30,13,0,Espérance de Tunis
+Tunisia,F,22,GK,Sabri Ben Hessen,,29,2,0,Étoile du Sahel
+Tunisia,F,23,DF,Moutaz Neffati,,21,5,0,IFK Norrköping
+Tunisia,F,24,DF,Raed Chikhaoui,,22,0,0,US Monastir
+Tunisia,F,25,MF,Anis Ben Slimane,,25,41,4,Norwich City
+Tunisia,F,26,MF,Sebastian Tounekti,,23,12,1,Celtic
+Belgium,G,1,GK,Thibaut Courtois,,34,109,0,Real Madrid
+Belgium,G,2,DF,Zeno Debast,,22,26,1,Sporting CP
+Belgium,G,3,DF,Arthur Theate,,26,33,1,Eintracht Frankfurt
+Belgium,G,4,DF,Brandon Mechele,,33,9,1,Club Brugge
+Belgium,G,5,DF,Maxim De Cuyper,,25,19,4,Brighton & Hove Albion
+Belgium,G,6,MF,Axel Witsel,,37,138,12,Girona
+Belgium,G,7,MF,Kevin De Bruyne,,34,119,37,Napoli
+Belgium,G,8,MF,Youri Tielemans (captain),,29,85,13,Aston Villa
+Belgium,G,9,FW,Romelu Lukaku,,33,126,90,Napoli
+Belgium,G,10,FW,Leandro Trossard,,31,51,12,Arsenal
+Belgium,G,11,FW,Jérémy Doku,,24,43,7,Manchester City
+Belgium,G,12,GK,Senne Lammens,,23,2,0,Manchester United
+Belgium,G,13,GK,Mike Penders,,20,0,0,Strasbourg
+Belgium,G,14,FW,Dodi Lukébakio,,28,30,6,Benfica
+Belgium,G,15,DF,Thomas Meunier,,34,80,10,Lille
+Belgium,G,16,DF,Koni De Winter,,23,8,0,Milan
+Belgium,G,17,FW,Charles De Ketelaere,,25,30,6,Atalanta
+Belgium,G,18,DF,Joaquin Seys,,21,5,0,Club Brugge
+Belgium,G,19,MF,Diego Moreira,,21,3,0,Strasbourg
+Belgium,G,20,MF,Hans Vanaken,,33,34,7,Club Brugge
+Belgium,G,21,DF,Timothy Castagne,,30,63,2,Fulham
+Belgium,G,22,MF,Alexis Saelemaekers,,26,24,2,Milan
+Belgium,G,23,MF,Nicolas Raskin,,25,13,2,Rangers
+Belgium,G,24,MF,Amadou Onana,,24,29,1,Aston Villa
+Belgium,G,25,DF,Nathan Ngoy,,23,4,0,Lille
+Belgium,G,26,FW,Matias Fernandez-Pardo,,21,2,0,Lille
+Egypt,G,1,GK,Mohamed El Shenawy,,37,76,0,Al Ahly
+Egypt,G,2,DF,Yasser Ibrahim,,33,17,1,Al Ahly
+Egypt,G,3,DF,Mohamed Hany,,30,42,0,Al Ahly
+Egypt,G,4,DF,Hossam Abdelmaguid,,25,13,0,Zamalek
+Egypt,G,5,DF,Ramy Rabia,,33,44,5,Al Ain
+Egypt,G,6,DF,Mohamed Abdelmonem,,27,36,3,Nice
+Egypt,G,7,FW,Trézéguet,,31,96,23,Al Ahly
+Egypt,G,8,MF,Emam Ashour,,28,29,0,Al Ahly
+Egypt,G,9,FW,Hamza Abdelkarim,,18,2,0,Barcelona B
+Egypt,G,10,FW,Mohamed Salah (captain),,33,116,67,Liverpool
+Egypt,G,11,MF,Mostafa Ziko,,29,2,2,Pyramids
+Egypt,G,12,FW,Haissem Hassan,,24,4,0,Oviedo
+Egypt,G,13,DF,Ahmed Fatouh,,28,39,1,Zamalek
+Egypt,G,14,MF,Hamdy Fathy,,31,63,3,Al-Wakrah
+Egypt,G,15,DF,Karim Hafez,,30,9,0,Pyramids
+Egypt,G,16,GK,El Mahdy Soliman,,39,0,0,Zamalek
+Egypt,G,17,MF,Mohanad Lasheen,,30,23,0,Pyramids
+Egypt,G,18,MF,Nabil Emad,,30,12,0,Al-Najma
+Egypt,G,19,MF,Marwan Attia,,27,34,1,Al Ahly
+Egypt,G,20,FW,Ibrahim Adel,,25,24,3,Nordsjælland
+Egypt,G,21,MF,Mahmoud Saber,,24,15,1,ZED
+Egypt,G,22,FW,Omar Marmoush,,27,49,11,Manchester City
+Egypt,G,23,GK,Mostafa Shobeir,,26,9,0,Al Ahly
+Egypt,G,24,DF,Tarek Alaa,,24,3,0,ZED
+Egypt,G,25,FW,Zizo,,30,63,5,Al Ahly
+Egypt,G,26,GK,Mohamed Alaa,,27,0,0,El Gouna
+Iran,G,1,GK,Alireza Beiranvand,,33,86,0,Tractor
+Iran,G,2,DF,Saleh Hardani,,27,18,1,Esteghlal
+Iran,G,3,DF,Ehsan Hajsafi (captain),,36,146,7,Sepahan
+Iran,G,4,DF,Shojae Khalilzadeh,,37,58,2,Tractor
+Iran,G,5,DF,Milad Mohammadi,,32,76,1,Persepolis
+Iran,G,6,MF,Saeid Ezatolahi,,29,83,2,Shabab Al Ahli
+Iran,G,7,MF,Alireza Jahanbakhsh,,32,98,17,Dender
+Iran,G,8,MF,Mohammad Mohebi,,27,36,14,Rostov
+Iran,G,9,FW,Mehdi Taremi,,33,105,60,Olympiacos
+Iran,G,10,FW,Mehdi Ghayedi,,27,30,10,Al Nasr
+Iran,G,11,FW,Ali Alipour,,30,14,1,Persepolis
+Iran,G,12,GK,Payam Niazmand,,31,15,0,Persepolis
+Iran,G,13,DF,Hossein Kanaanizadegan,,32,65,6,Persepolis
+Iran,G,14,MF,Saman Ghoddos,,32,68,3,Kalba
+Iran,G,15,MF,Rouzbeh Cheshmi,,32,40,3,Esteghlal
+Iran,G,16,MF,Mehdi Torabi,,31,52,7,Tractor
+Iran,G,17,DF,Aria Yousefi,,24,14,1,Sepahan
+Iran,G,18,FW,Amirhossein Hosseinzadeh,,25,18,5,Tractor
+Iran,G,19,DF,Ali Nemati,,30,17,0,Foolad
+Iran,G,20,FW,Shahriyar Moghanlou,,31,21,2,Kalba
+Iran,G,21,MF,Mohammad Ghorbani,,24,16,0,Al Wahda
+Iran,G,22,GK,Hossein Hosseini,,33,13,0,Sepahan
+Iran,G,23,DF,Ramin Rezaeian,,36,74,8,Foolad
+Iran,G,24,FW,Dennis Eckert,,29,0,0,Standard Liège
+Iran,G,25,DF,Danial Eiri,,22,0,0,Malavan
+Iran,G,26,MF,Amirmohammad Razzaghinia,,20,4,0,Esteghlal
+New Zealand,G,1,GK,Max Crocombe,,32,24,0,Millwall
+New Zealand,G,2,DF,Tim Payne,,32,51,3,Wellington Phoenix
+New Zealand,G,3,DF,Francis de Vries,,31,20,1,Auckland FC
+New Zealand,G,4,DF,Tyler Bindon,,21,25,3,Sheffield United
+New Zealand,G,5,DF,Michael Boxall,,37,63,1,Minnesota United FC
+New Zealand,G,6,MF,Joe Bell,,27,32,1,Viking
+New Zealand,G,7,MF,Matthew Garbett,,24,37,5,Peterborough United
+New Zealand,G,8,MF,Marko Stamenić,,24,39,3,Swansea City
+New Zealand,G,9,FW,Chris Wood (captain),,34,90,45,Nottingham Forest
+New Zealand,G,10,MF,Sarpreet Singh,,27,28,3,Wellington Phoenix
+New Zealand,G,11,MF,Elijah Just,,26,44,9,Motherwell
+New Zealand,G,12,GK,Alex Paulsen,,23,8,0,Lechia Gdańsk
+New Zealand,G,13,DF,Liberato Cacace,,25,37,1,Wrexham
+New Zealand,G,14,MF,Alex Rufer,,29,26,0,Wellington Phoenix
+New Zealand,G,15,DF,Nando Pijnaker,,27,25,0,Auckland FC
+New Zealand,G,16,DF,Finn Surman,,22,19,2,Portland Timbers
+New Zealand,G,17,FW,Kosta Barbarouses,,36,76,10,Western Sydney Wanderers
+New Zealand,G,18,FW,Ben Waine,,25,31,9,Port Vale
+New Zealand,G,19,MF,Ben Old,,23,24,2,Saint-Étienne
+New Zealand,G,20,MF,Callum McCowatt,,27,32,4,Silkeborg
+New Zealand,G,21,FW,Jesse Randall,,23,11,2,Auckland FC
+New Zealand,G,22,GK,Michael Woud,,27,6,0,Auckland FC
+New Zealand,G,23,MF,Ryan Thomas,,31,25,3,PEC Zwolle
+New Zealand,G,24,DF,Callan Elliot,,26,11,0,Auckland FC
+New Zealand,G,25,MF,Lachlan Bayliss,,23,4,0,Newcastle Jets
+New Zealand,G,26,DF,Tommy Smith,,36,56,2,Braintree Town
+Cape Verde,H,1,GK,Vozinha,,40,86,0,Chaves
+Cape Verde,H,2,DF,Stopira,,38,62,4,Torreense
+Cape Verde,H,3,DF,Diney,,31,30,2,Al Bataeh
+Cape Verde,H,4,DF,Roberto Lopes,,33,45,0,Shamrock Rovers
+Cape Verde,H,5,DF,Logan Costa,,25,28,0,Villarreal
+Cape Verde,H,6,MF,Kevin Pina,,29,31,3,Krasnodar
+Cape Verde,H,7,MF,Jovane Cabral,,27,27,2,Estrela Amadora
+Cape Verde,H,8,MF,João Paulo,,28,42,1,FCSB
+Cape Verde,H,9,FW,Gilson Benchimol,,24,22,6,Akron Tolyatti
+Cape Verde,H,10,MF,Jamiro Monteiro,,32,55,5,PEC Zwolle
+Cape Verde,H,11,MF,Garry Rodrigues,,35,60,10,Apollon Limassol
+Cape Verde,H,12,GK,Márcio Rosa,,29,11,0,Montana
+Cape Verde,H,13,DF,Sidny Lopes Cabral,,23,9,3,Benfica
+Cape Verde,H,14,MF,Deroy Duarte,,26,30,0,Ludogorets Razgrad
+Cape Verde,H,15,MF,Laros Duarte,,29,13,1,Puskás Akadémia
+Cape Verde,H,16,MF,Yannick Semedo,,30,10,1,Farense
+Cape Verde,H,17,MF,Willy Semedo,,32,38,3,Omonia
+Cape Verde,H,18,MF,Telmo Arcanjo,,24,16,1,Vitória de Guimarães
+Cape Verde,H,19,FW,Dailon Livramento,,25,22,7,Casa Pia
+Cape Verde,H,20,FW,Ryan Mendes (captain),,36,98,22,Iğdır
+Cape Verde,H,21,MF,Nuno da Costa,,35,9,2,İstanbul Başakşehir
+Cape Verde,H,22,DF,Steven Moreira,,31,20,0,Columbus Crew
+Cape Verde,H,23,GK,CJ dos Santos,,25,1,0,San Diego FC
+Cape Verde,H,24,DF,Wagner Pina,,23,13,0,Trabzonspor
+Cape Verde,H,25,DF,Kelvin Pires,,26,5,1,SJK
+Cape Verde,H,26,MF,Hélio Varela,,24,20,0,Maccabi Tel Aviv
+Saudi Arabia,H,1,GK,Nawaf Al-Aqidi,,26,22,0,Al-Nassr
+Saudi Arabia,H,2,DF,Ali Majrashi,,26,21,0,Al-Ahli
+Saudi Arabia,H,3,DF,Ali Lajami,,30,21,1,Al-Hilal
+Saudi Arabia,H,4,DF,Abdulelah Al-Amri,,29,42,1,Al-Nassr
+Saudi Arabia,H,5,DF,Hassan Al-Tambakti,,27,51,1,Al-Hilal
+Saudi Arabia,H,6,MF,Nasser Al-Dawsari,,27,43,0,Al-Hilal
+Saudi Arabia,H,7,MF,Musab Al-Juwayr,,22,34,6,Al-Qadsiah
+Saudi Arabia,H,8,FW,Ayman Yahya,,25,26,0,Al-Nassr
+Saudi Arabia,H,9,FW,Firas Al-Buraikan,,26,69,15,Al-Ahli
+Saudi Arabia,H,10,FW,Salem Al-Dawsari (captain),,34,109,27,Al-Hilal
+Saudi Arabia,H,11,FW,Saleh Al-Shehri,,32,55,18,Al-Ittihad
+Saudi Arabia,H,12,DF,Saud Abdulhamid,,26,54,1,Lens
+Saudi Arabia,H,13,DF,Nawaf Boushal,,26,24,0,Al-Nassr
+Saudi Arabia,H,14,DF,Hassan Kadesh,,33,20,2,Al-Ittihad
+Saudi Arabia,H,15,MF,Abdullah Al-Khaibari,,29,39,0,Al-Nassr
+Saudi Arabia,H,16,MF,Ziyad Al-Johani,,24,12,0,Al-Ahli
+Saudi Arabia,H,17,FW,Khalid Al-Ghannam,,25,6,0,Al-Ettifaq
+Saudi Arabia,H,18,MF,Alaa Al-Hejji,,30,2,0,Neom
+Saudi Arabia,H,19,FW,Abdullah Al-Hamdan,,26,49,12,Al-Nassr
+Saudi Arabia,H,20,FW,Sultan Mandash,,31,6,2,Al-Hilal
+Saudi Arabia,H,21,GK,Mohammed Al-Owais,,34,63,0,Al-Ula
+Saudi Arabia,H,22,GK,Ahmed Al-Kassar,,35,9,0,Al-Qadsiah
+Saudi Arabia,H,23,MF,Mohamed Kanno,,31,76,8,Al-Hilal
+Saudi Arabia,H,24,DF,Moteb Al-Harbi,,26,12,0,Al-Hilal
+Saudi Arabia,H,25,DF,Jehad Thakri,,24,7,0,Al-Qadsiah
+Saudi Arabia,H,26,DF,Mohammed Abu Al-Shamat,,23,6,0,Al-Qadsiah
+Spain,H,1,GK,David Raya,,30,13,0,Arsenal
+Spain,H,2,DF,Marc Pubill,,22,2,0,Atlético Madrid
+Spain,H,3,DF,Álex Grimaldo,,30,14,0,Bayer Leverkusen
+Spain,H,4,DF,Eric García,,25,21,0,Barcelona
+Spain,H,5,DF,Marcos Llorente,,31,24,0,Atlético Madrid
+Spain,H,6,MF,Mikel Merino,,29,43,10,Arsenal
+Spain,H,7,FW,Ferran Torres,,26,57,24,Barcelona
+Spain,H,8,MF,Fabián Ruiz,,30,42,6,Paris Saint-Germain
+Spain,H,9,MF,Gavi,,21,30,5,Barcelona
+Spain,H,10,FW,Dani Olmo,,28,50,12,Barcelona
+Spain,H,11,FW,Yéremy Pino,,23,23,4,Crystal Palace
+Spain,H,12,DF,Pedro Porro,,26,18,0,Tottenham Hotspur
+Spain,H,13,GK,Joan Garcia,,25,2,0,Barcelona
+Spain,H,14,DF,Aymeric Laporte,,32,46,2,Athletic Bilbao
+Spain,H,15,MF,Álex Baena,,24,17,2,Atlético Madrid
+Spain,H,16,MF,Rodri (captain),,29,62,4,Manchester City
+Spain,H,17,FW,Nico Williams,,23,30,6,Athletic Bilbao
+Spain,H,18,MF,Martín Zubimendi,,27,26,3,Arsenal
+Spain,H,19,FW,Lamine Yamal,,18,25,6,Barcelona
+Spain,H,20,MF,Pedri,,23,41,6,Barcelona
+Spain,H,21,FW,Mikel Oyarzabal,,29,53,25,Real Sociedad
+Spain,H,22,DF,Pau Cubarsí,,19,12,0,Barcelona
+Spain,H,23,GK,Unai Simón,,29,58,0,Athletic Bilbao
+Spain,H,24,DF,Marc Cucurella,,27,24,1,Chelsea
+Spain,H,25,FW,Víctor Muñoz,,22,2,1,Osasuna
+Spain,H,26,FW,Borja Iglesias,,33,8,0,Celta Vigo
+Uruguay,H,1,GK,Sergio Rochet,,33,35,0,Internacional
+Uruguay,H,2,DF,José Giménez (captain),,31,99,8,Atlético Madrid
+Uruguay,H,3,DF,Sebastián Cáceres,,26,24,0,América
+Uruguay,H,4,DF,Ronald Araújo,,27,27,1,Barcelona
+Uruguay,H,5,MF,Manuel Ugarte,,25,36,1,Manchester United
+Uruguay,H,6,MF,Rodrigo Bentancur,,28,74,3,Tottenham Hotspur
+Uruguay,H,7,MF,Nicolás de la Cruz,,29,34,5,Flamengo
+Uruguay,H,8,MF,Federico Valverde,,27,73,9,Real Madrid
+Uruguay,H,9,FW,Darwin Núñez,,26,38,13,Al-Hilal
+Uruguay,H,10,MF,Giorgian de Arrascaeta,,32,60,13,Flamengo
+Uruguay,H,11,FW,Facundo Pellistri,,24,39,2,Panathinaikos
+Uruguay,H,12,GK,Santiago Mele,,28,8,0,Monterrey
+Uruguay,H,13,DF,Guillermo Varela,,33,28,0,Flamengo
+Uruguay,H,14,MF,Agustín Canobbio,,27,15,1,Fluminense
+Uruguay,H,15,MF,Emiliano Martínez,,26,10,0,Palmeiras
+Uruguay,H,16,DF,Mathías Olivera,,28,35,2,Napoli
+Uruguay,H,17,DF,Matías Viña,,28,43,1,River Plate
+Uruguay,H,18,FW,Brian Rodríguez,,26,32,4,América
+Uruguay,H,19,FW,Rodrigo Aguirre,,31,10,3,UANL
+Uruguay,H,20,MF,Maximiliano Araújo,,26,28,3,Sporting CP
+Uruguay,H,21,FW,Federico Viñas,,27,11,2,Oviedo
+Uruguay,H,22,MF,Joaquín Piquerez,,27,19,0,Palmeiras
+Uruguay,H,23,GK,Fernando Muslera,,39,134,0,Estudiantes
+Uruguay,H,24,DF,Santiago Bueno,,27,8,0,Wolverhampton Wanderers
+Uruguay,H,25,MF,Juan Manuel Sanabria,,26,5,1,Real Salt Lake
+Uruguay,H,26,MF,Rodrigo Zalazar,,26,8,2,Braga
+France,I,1,GK,Brice Samba,,32,4,0,Rennes
+France,I,2,DF,Malo Gusto,,23,11,0,Chelsea
+France,I,3,DF,Lucas Digne,,32,58,0,Aston Villa
+France,I,4,DF,Dayot Upamecano,,27,38,2,Bayern Munich
+France,I,5,DF,Jules Koundé,,27,48,0,Barcelona
+France,I,6,MF,Manu Koné,,25,14,0,Roma
+France,I,7,FW,Ousmane Dembélé,,29,59,7,Paris Saint-Germain
+France,I,8,MF,Aurélien Tchouaméni,,26,46,3,Real Madrid
+France,I,9,FW,Marcus Thuram,,28,34,3,Inter Milan
+France,I,10,FW,Kylian Mbappé (captain),,27,98,56,Real Madrid
+France,I,11,FW,Michael Olise,,24,17,7,Bayern Munich
+France,I,12,FW,Bradley Barcola,,23,20,3,Paris Saint-Germain
+France,I,13,MF,N'Golo Kanté,,35,69,2,Fenerbahçe
+France,I,14,MF,Adrien Rabiot,,31,59,7,Milan
+France,I,15,DF,Ibrahima Konaté,,27,28,0,Liverpool
+France,I,16,GK,Mike Maignan,,30,40,0,Milan
+France,I,17,DF,William Saliba,,25,32,0,Arsenal
+France,I,18,MF,Warren Zaïre-Emery,,20,11,1,Paris Saint-Germain
+France,I,19,DF,Théo Hernandez,,28,44,2,Al-Hilal
+France,I,20,FW,Désiré Doué,,21,7,2,Paris Saint-Germain
+France,I,21,DF,Lucas Hernandez,,30,42,0,Paris Saint-Germain
+France,I,22,FW,Jean-Philippe Mateta,,28,4,2,Crystal Palace
+France,I,23,GK,Robin Risser,,21,0,0,Lens
+France,I,24,MF,Rayan Cherki,,22,7,2,Manchester City
+France,I,25,MF,Maghnes Akliouche,,24,9,1,Monaco
+France,I,26,DF,Maxence Lacroix,,26,4,0,Crystal Palace
+Iraq,I,1,GK,Fahad Talib,,31,21,0,Al-Talaba
+Iraq,I,2,DF,Rebin Sulaka,,34,55,1,Port
+Iraq,I,3,DF,Hussein Ali,,24,26,1,Pogoń Szczecin
+Iraq,I,4,DF,Zaid Tahseen,,25,27,1,Pakhtakor
+Iraq,I,5,DF,Akam Hashim,,27,13,1,Al-Zawraa
+Iraq,I,6,DF,Manaf Younis,,29,33,1,Al-Shorta
+Iraq,I,7,MF,Youssef Amyn,,22,26,2,AEK Larnaca
+Iraq,I,8,MF,Ibrahim Bayesh,,26,75,8,Al Dhafra
+Iraq,I,9,FW,Ali Al-Hamadi,,24,19,5,Luton Town
+Iraq,I,10,FW,Mohanad Ali,,25,71,27,Dibba
+Iraq,I,11,FW,Ahmed Qasem,,22,2,0,Nashville SC
+Iraq,I,12,GK,Jalal Hassan (captain),,35,101,0,Al-Zawraa
+Iraq,I,13,FW,Ali Yousif,,30,6,1,Al-Talaba
+Iraq,I,14,MF,Zidane Iqbal,,23,24,2,Utrecht
+Iraq,I,15,DF,Ahmed Maknzi,,24,6,0,Al-Karma
+Iraq,I,16,MF,Amir Al-Ammari,,28,50,3,Cracovia
+Iraq,I,17,FW,Ali Jasim,,22,36,2,Al-Najma
+Iraq,I,18,FW,Aymen Hussein,,30,94,33,Al-Karma
+Iraq,I,19,MF,Kevin Yakob,,25,8,0,AGF
+Iraq,I,20,MF,Aimar Sher,,23,6,0,Sarpsborg 08
+Iraq,I,21,FW,Marko Farji,,22,11,0,Venezia
+Iraq,I,22,GK,Ahmed Basil,,29,15,0,Al-Shorta
+Iraq,I,23,DF,Merchas Doski,,26,31,1,Viktoria Plzeň
+Iraq,I,24,MF,Zaid Ismail,,24,6,0,Al-Talaba
+Iraq,I,25,DF,Mustafa Saadoon,,25,16,0,Al-Shorta
+Iraq,I,26,DF,Frans Putros,,32,27,0,Persib
+Norway,I,1,GK,Ørjan Nyland,,35,71,0,Sevilla
+Norway,I,2,MF,Morten Thorsby,,30,31,0,Cremonese
+Norway,I,3,DF,Kristoffer Ajer,,28,52,2,Brentford
+Norway,I,4,DF,Leo Østigård,,26,38,1,Genoa
+Norway,I,5,DF,David Møller Wolfe,,24,22,1,Wolverhampton Wanderers
+Norway,I,6,MF,Patrick Berg,,28,43,0,Bodø/Glimt
+Norway,I,7,FW,Alexander Sørloth,,30,72,26,Atlético Madrid
+Norway,I,8,MF,Sander Berge,,28,66,1,Fulham
+Norway,I,9,FW,Erling Haaland,,25,50,55,Manchester City
+Norway,I,10,MF,Martin Ødegaard (captain),,27,68,5,Arsenal
+Norway,I,11,FW,Jørgen Strand Larsen,,26,28,6,Crystal Palace
+Norway,I,12,GK,Sander Tangvik,,23,0,0,Hamburger SV
+Norway,I,13,GK,Egil Selvik,,28,7,0,Watford
+Norway,I,14,MF,Fredrik Aursnes,,30,22,1,Benfica
+Norway,I,15,DF,Fredrik André Bjørkan,,27,21,1,Bodø/Glimt
+Norway,I,16,DF,Marcus Holmgren Pedersen,,25,32,0,Torino
+Norway,I,17,DF,Torbjørn Heggem,,27,15,0,Bologna
+Norway,I,18,MF,Kristian Thorstvedt,,27,37,4,Sassuolo
+Norway,I,19,MF,Thelo Aasgaard,,24,8,5,Rangers
+Norway,I,20,FW,Antonio Nusa,,21,24,8,RB Leipzig
+Norway,I,21,MF,Andreas Schjelderup,,22,12,1,Benfica
+Norway,I,22,MF,Oscar Bobb,,22,20,2,Fulham
+Norway,I,23,MF,Jens Petter Hauge,,26,15,1,Bodø/Glimt
+Norway,I,24,DF,Sondre Langås,,25,3,0,Derby County
+Norway,I,25,DF,Henrik Falchener,,23,1,0,Viking
+Norway,I,26,FW,Julian Ryerson,,28,43,1,Borussia Dortmund
+Senegal,I,1,GK,Yehvann Diouf,,26,2,0,Nice
+Senegal,I,2,DF,Mamadou Sarr,,20,7,0,Chelsea
+Senegal,I,3,DF,Kalidou Koulibaly (captain),,34,102,2,Al-Hilal
+Senegal,I,4,DF,Abdoulaye Seck,,34,22,4,Maccabi Haifa
+Senegal,I,5,MF,Idrissa Gueye,,36,130,7,Everton
+Senegal,I,6,MF,Pathé Ciss,,32,29,0,Rayo Vallecano
+Senegal,I,7,FW,Assane Diao,,20,5,0,Como
+Senegal,I,8,MF,Lamine Camara,,22,32,7,Monaco
+Senegal,I,9,FW,Bamba Dieng,,26,22,2,Lorient
+Senegal,I,10,FW,Sadio Mané,,34,127,55,Al-Nassr
+Senegal,I,11,FW,Nicolas Jackson,,24,32,8,Bayern Munich
+Senegal,I,12,FW,Cherif Ndiaye,,30,18,4,Samsunspor
+Senegal,I,13,FW,Iliman Ndiaye,,26,39,4,Everton
+Senegal,I,14,DF,Ismail Jakobs,,26,29,0,Galatasaray
+Senegal,I,15,DF,Krépin Diatta,,27,60,2,Monaco
+Senegal,I,16,GK,Édouard Mendy,,34,56,0,Al-Ahli
+Senegal,I,17,MF,Pape Matar Sarr,,23,39,4,Tottenham Hotspur
+Senegal,I,18,FW,Ismaïla Sarr,,28,82,19,Crystal Palace
+Senegal,I,19,DF,Moussa Niakhaté,,30,30,0,Lyon
+Senegal,I,20,FW,Ibrahim Mbaye,,18,10,3,Paris Saint-Germain
+Senegal,I,21,MF,Habib Diarra,,22,20,4,Sunderland
+Senegal,I,22,MF,Bara Sapoko Ndiaye,,18,1,0,Bayern Munich
+Senegal,I,23,GK,Mory Diaw,,32,5,0,Le Havre
+Senegal,I,24,DF,Antoine Mendy,,22,6,0,Nice
+Senegal,I,25,DF,El Hadji Malick Diouf,,21,19,1,West Ham United
+Senegal,I,26,MF,Pape Gueye,,27,41,5,Villarreal
+Algeria,J,1,GK,Melvin Mastil,,26,1,0,Stade Nyonnais
+Algeria,J,2,DF,Aïssa Mandi,,34,117,7,Lille
+Algeria,J,3,DF,Achref Abada,,26,7,1,USM Alger
+Algeria,J,4,DF,Mohamed Amine Tougai,,26,29,2,Espérance de Tunis
+Algeria,J,5,DF,Zineddine Belaïd,,27,10,1,JS Kabylie
+Algeria,J,6,MF,Ramiz Zerrouki,,28,52,3,Twente
+Algeria,J,7,FW,Riyad Mahrez (captain),,35,114,38,Al-Ahli
+Algeria,J,8,MF,Houssem Aouar,,27,20,6,Al-Ittihad
+Algeria,J,9,FW,Amine Gouiri,,26,22,8,Marseille
+Algeria,J,10,MF,Farès Chaïbi,,23,29,3,Eintracht Frankfurt
+Algeria,J,11,FW,Anis Hadj Moussa,,24,14,1,Feyenoord
+Algeria,J,12,FW,Nadhir Benbouali,,26,3,1,Győri ETO
+Algeria,J,13,DF,Jaouen Hadjam,,23,17,3,Young Boys
+Algeria,J,14,MF,Hicham Boudaoui,,26,32,0,Nice
+Algeria,J,15,DF,Rayan Aït-Nouri,,25,28,0,Manchester City
+Algeria,J,16,GK,Oussama Benbot,,31,2,0,USM Alger
+Algeria,J,17,DF,Rafik Belghali,,24,12,1,Hellas Verona
+Algeria,J,18,FW,Mohamed Amoura,,26,45,19,VfL Wolfsburg
+Algeria,J,19,MF,Nabil Bentaleb,,31,59,6,Lille
+Algeria,J,20,FW,Adil Boulbina,,23,11,6,Al-Duhail
+Algeria,J,21,DF,Ramy Bensebaini,,31,81,7,Borussia Dortmund
+Algeria,J,22,MF,Ibrahim Maza,,20,16,2,Bayer Leverkusen
+Algeria,J,23,GK,Luca Zidane,,28,7,0,Granada
+Algeria,J,24,MF,Yacine Titraoui,,22,5,0,Charleroi
+Algeria,J,25,FW,Farès Ghedjemis,,23,1,1,Frosinone
+Algeria,J,26,DF,Samir Chergui,,27,4,0,Paris FC
+Argentina,J,1,GK,Juan Musso,,32,4,0,Atlético Madrid
+Argentina,J,3,DF,Nicolás Tagliafico,,33,76,1,Lyon
+Argentina,J,4,DF,Gonzalo Montiel,,29,38,2,River Plate
+Argentina,J,5,MF,Leandro Paredes,,31,77,5,Boca Juniors
+Argentina,J,6,DF,Lisandro Martínez,,28,27,1,Manchester United
+Argentina,J,7,MF,Rodrigo De Paul,,32,86,2,Inter Miami CF
+Argentina,J,8,MF,Valentín Barco,,21,3,1,Strasbourg
+Argentina,J,9,FW,Julián Alvarez,,26,51,14,Atlético Madrid
+Argentina,J,10,FW,Lionel Messi (captain),,38,198,116,Inter Miami CF
+Argentina,J,11,MF,Giovani Lo Celso,,30,66,4,Real Betis
+Argentina,J,12,GK,Gerónimo Rulli,,34,7,0,Marseille
+Argentina,J,13,DF,Cristian Romero,,28,50,3,Tottenham Hotspur
+Argentina,J,14,MF,Exequiel Palacios,,27,39,0,Bayer Leverkusen
+Argentina,J,15,MF,Nicolás González,,28,50,6,Atlético Madrid
+Argentina,J,16,FW,Thiago Almada,,25,15,4,Atlético Madrid
+Argentina,J,17,FW,Giuliano Simeone,,23,12,2,Atlético Madrid
+Argentina,J,18,FW,Nico Paz,,21,8,1,Como
+Argentina,J,19,DF,Nicolás Otamendi,,38,131,8,Benfica
+Argentina,J,20,MF,Alexis Mac Allister,,27,45,6,Liverpool
+Argentina,J,21,FW,José Manuel López,,25,4,0,Palmeiras
+Argentina,J,22,FW,Lautaro Martínez,,28,76,37,Inter Milan
+Argentina,J,23,GK,Emiliano Martínez,,33,59,0,Aston Villa
+Argentina,J,24,MF,Enzo Fernández,,25,41,6,Chelsea
+Argentina,J,25,DF,Facundo Medina,,27,8,0,Marseille
+Argentina,J,26,DF,Nahuel Molina,,28,58,1,Atlético Madrid
+Austria,J,1,GK,Alexander Schlager,,30,26,0,Red Bull Salzburg
+Austria,J,2,DF,David Affengruber,,25,1,0,Elche
+Austria,J,3,DF,Kevin Danso,,27,32,0,Tottenham Hotspur
+Austria,J,4,MF,Xaver Schlager,,28,51,4,RB Leipzig
+Austria,J,5,DF,Stefan Posch,,29,52,5,Mainz 05
+Austria,J,6,MF,Nicolas Seiwald,,25,47,1,RB Leipzig
+Austria,J,7,FW,Marko Arnautović,,37,133,47,Red Star Belgrade
+Austria,J,8,DF,David Alaba (captain),,33,113,15,Real Madrid
+Austria,J,9,MF,Marcel Sabitzer,,32,98,26,Borussia Dortmund
+Austria,J,10,MF,Florian Grillitsch,,30,58,1,Braga
+Austria,J,11,FW,Michael Gregoritsch,,32,75,24,FC Augsburg
+Austria,J,12,GK,Florian Wiegele,,25,1,0,Viktoria Plzeň
+Austria,J,13,GK,Patrick Pentz,,29,18,0,Brøndby
+Austria,J,14,FW,Saša Kalajdžić,,28,22,4,LASK
+Austria,J,15,DF,Philipp Lienhart,,29,41,3,SC Freiburg
+Austria,J,16,DF,Phillipp Mwene,,32,30,0,Mainz 05
+Austria,J,17,MF,Carney Chukwuemeka,,22,3,1,Borussia Dortmund
+Austria,J,18,MF,Romano Schmid,,26,34,3,Werder Bremen
+Austria,J,20,MF,Konrad Laimer,,29,57,7,Bayern Munich
+Austria,J,21,FW,Patrick Wimmer,,25,30,1,VfL Wolfsburg
+Austria,J,22,MF,Alexander Prass,,25,19,0,TSG Hoffenheim
+Austria,J,23,DF,Marco Friedl,,28,11,0,Werder Bremen
+Austria,J,24,MF,Paul Wanner,,20,3,0,PSV Eindhoven
+Austria,J,25,DF,Michael Svoboda,,27,4,0,Venezia
+Austria,J,26,MF,Alessandro Schöpf,,32,35,6,Wolfsberger AC
+Jordan,J,1,GK,Yazeed Abulaila,,33,76,0,Al-Hussein
+Jordan,J,2,DF,Mohammad Abu Hashish,,31,56,1,Al-Karma
+Jordan,J,3,DF,Abdallah Nasib,,32,65,3,Al-Zawraa
+Jordan,J,4,DF,Husam Abu Dahab,,26,18,0,Al-Faisaly
+Jordan,J,5,DF,Yazan Al-Arab,,30,80,3,FC Seoul
+Jordan,J,6,MF,Amer Jamous,,23,19,1,Al-Zawraa
+Jordan,J,7,FW,Mohammad Abu Zrayq,,28,41,5,Raja Casablanca
+Jordan,J,8,MF,Noor Al-Rawabdeh,,29,68,3,Selangor
+Jordan,J,9,FW,Ali Olwan,,26,66,29,Al-Sailiya
+Jordan,J,10,FW,Musa Al-Taamari,,29,92,24,Rennes
+Jordan,J,11,FW,Odeh Al-Fakhouri,,20,10,1,Pyramids
+Jordan,J,12,GK,Nour Bani Attiah,,33,5,0,Al-Faisaly
+Jordan,J,13,FW,Mahmoud Al-Mardi,,32,89,9,Al-Hussein
+Jordan,J,14,MF,Rajaei Ayed,,32,72,0,Al-Hussein
+Jordan,J,15,MF,Ibrahim Sadeh,,26,57,3,Al-Karma
+Jordan,J,16,DF,Mo Abualnadi,,25,18,0,Selangor
+Jordan,J,17,DF,Salim Obaid,,34,11,0,Al-Hussein
+Jordan,J,18,DF,Mohammad Taha,,20,2,0,Al-Hussein
+Jordan,J,19,DF,Saed Al-Rosan,,29,21,2,Al-Hussein
+Jordan,J,20,MF,Mohannad Abu Taha,,23,29,1,Al-Quwa Al-Jawiya
+Jordan,J,21,MF,Nizar Al-Rashdan,,27,47,4,Qatar SC
+Jordan,J,22,GK,Abdallah Al-Fakhouri,,26,11,0,Al-Wehdat
+Jordan,J,23,DF,Ihsan Haddad (captain),,32,92,2,Al-Hussein
+Jordan,J,24,FW,Ali Azaizeh,,22,4,0,Al-Shabab
+Jordan,J,25,MF,Mohammad Al-Dawoud,,34,13,1,Al-Wehdat
+Jordan,J,26,DF,Anas Badawi,,28,1,0,Al-Faisaly
+Colombia,K,1,GK,David Ospina,,37,130,0,Atlético Nacional
+Colombia,K,2,DF,Daniel Muñoz,,30,46,3,Crystal Palace
+Colombia,K,3,DF,Jhon Lucumí,,27,37,1,Bologna
+Colombia,K,4,DF,Santiago Arias,,34,68,0,Independiente
+Colombia,K,5,MF,Kevin Castaño,,25,25,0,River Plate
+Colombia,K,6,MF,Richard Ríos,,26,32,2,Benfica
+Colombia,K,7,FW,Luis Díaz,,29,74,22,Bayern Munich
+Colombia,K,8,MF,Jorge Carrascal,,28,24,2,Flamengo
+Colombia,K,9,FW,Jhon Córdoba,,33,21,6,Krasnodar
+Colombia,K,10,MF,James Rodríguez (captain),,34,126,31,Minnesota United FC
+Colombia,K,11,MF,Jhon Arias,,28,38,6,Palmeiras
+Colombia,K,12,GK,Camilo Vargas,,37,42,0,Atlas
+Colombia,K,13,DF,Yerry Mina,,31,54,8,Cagliari
+Colombia,K,14,DF,Gustavo Puerta,,22,6,1,Racing Santander
+Colombia,K,15,MF,Juan Portilla,,27,10,0,Athletico Paranaense
+Colombia,K,16,MF,Jefferson Lerma,,31,65,5,Crystal Palace
+Colombia,K,17,DF,Johan Mojica,,33,45,1,Mallorca
+Colombia,K,18,DF,Willer Ditta,,28,5,0,Cruz Azul
+Colombia,K,19,FW,Cucho Hernández,,27,9,2,Real Betis
+Colombia,K,20,MF,Juan Fernando Quintero,,33,49,6,River Plate
+Colombia,K,21,FW,Jaminton Campaz,,26,10,1,Rosario Central
+Colombia,K,22,DF,Deiver Machado,,32,15,0,Nantes
+Colombia,K,23,DF,Davinson Sánchez,,29,79,4,Galatasaray
+Colombia,K,24,GK,Álvaro Montero,,31,12,0,Vélez Sarsfield
+Colombia,K,25,FW,Luis Suárez,,28,12,5,Sporting CP
+Colombia,K,26,FW,Andrés Gómez,,23,8,2,Vasco da Gama
+DR Congo,K,1,GK,Lionel Mpasi,,31,28,0,Le Havre
+DR Congo,K,2,DF,Aaron Wan-Bissaka,,28,11,0,West Ham United
+DR Congo,K,3,DF,Steve Kapuadi,,28,4,0,Widzew Łódź
+DR Congo,K,4,DF,Axel Tuanzebe,,28,13,1,Burnley
+DR Congo,K,5,DF,Dylan Batubinsika,,30,14,1,AEL
+DR Congo,K,6,MF,Ngal'ayel Mukau,,21,13,0,Lille
+DR Congo,K,7,MF,Nathanaël Mbuku,,24,18,2,Montpellier
+DR Congo,K,8,MF,Samuel Moutoussamy,,29,57,0,Atromitos
+DR Congo,K,9,FW,Brian Cipenga,,28,7,0,Castellón
+DR Congo,K,10,MF,Théo Bongonda,,30,37,7,Spartak Moscow
+DR Congo,K,11,FW,Gaël Kakuta,,34,30,5,AEL
+DR Congo,K,12,DF,Joris Kayembe,,31,25,0,Genk
+DR Congo,K,13,FW,Meschak Elia,,28,68,12,Alanyaspor
+DR Congo,K,14,MF,Noah Sadiki,,21,19,0,Sunderland
+DR Congo,K,15,MF,Aaron Tshibola,,31,16,1,Kilmarnock
+DR Congo,K,16,GK,Timothy Fayulu,,26,3,0,Noah
+DR Congo,K,17,FW,Cédric Bakambu,,35,69,21,Real Betis
+DR Congo,K,18,MF,Charles Pickel,,29,34,1,Espanyol
+DR Congo,K,19,FW,Fiston Mayele,,31,37,6,Pyramids
+DR Congo,K,20,FW,Yoane Wissa,,29,37,9,Newcastle United
+DR Congo,K,21,GK,Matthieu Epolo,,21,1,0,Standard Liège
+DR Congo,K,22,DF,Chancel Mbemba (captain),,31,108,7,Lille
+DR Congo,K,23,FW,Simon Banza,,29,15,2,Al Jazira
+DR Congo,K,24,DF,Gédéon Kalulu,,28,28,0,Aris Limassol
+DR Congo,K,25,MF,Edo Kayembe,,28,42,2,Watford
+DR Congo,K,26,DF,Arthur Masuaku,,32,45,4,Lens
+Portugal,K,1,GK,Diogo Costa,,26,42,0,Porto
+Portugal,K,2,DF,Nélson Semedo,,32,49,0,Fenerbahçe
+Portugal,K,3,DF,Rúben Dias,,29,75,3,Manchester City
+Portugal,K,4,DF,Tomás Araújo,,24,4,0,Benfica
+Portugal,K,5,DF,Diogo Dalot,,27,34,3,Manchester United
+Portugal,K,6,MF,Matheus Nunes,,27,19,2,Manchester City
+Portugal,K,7,FW,Cristiano Ronaldo (captain),,41,227,143,Al-Nassr
+Portugal,K,8,MF,Bruno Fernandes,,31,88,29,Manchester United
+Portugal,K,9,FW,Gonçalo Ramos,,24,24,10,Paris Saint-Germain
+Portugal,K,10,MF,Bernardo Silva,,31,108,14,Manchester City
+Portugal,K,11,FW,João Félix,,26,53,12,Al-Nassr
+Portugal,K,12,GK,José Sá,,33,5,0,Wolverhampton Wanderers
+Portugal,K,13,DF,Renato Veiga,,22,12,1,Villarreal
+Portugal,K,14,DF,Gonçalo Inácio,,24,21,2,Sporting CP
+Portugal,K,15,MF,João Neves,,21,21,3,Paris Saint-Germain
+Portugal,K,16,FW,Francisco Trincão,,26,17,3,Sporting CP
+Portugal,K,17,FW,Rafael Leão,,27,44,5,Milan
+Portugal,K,18,FW,Pedro Neto,,26,24,2,Chelsea
+Portugal,K,19,FW,Gonçalo Guedes,,29,34,8,Real Sociedad
+Portugal,K,20,DF,João Cancelo,,32,67,12,Barcelona
+Portugal,K,21,MF,Rúben Neves,,29,66,1,Al-Hilal
+Portugal,K,22,GK,Rui Silva,,32,3,0,Sporting CP
+Portugal,K,23,MF,Vitinha,,26,37,0,Paris Saint-Germain
+Portugal,K,24,DF,Samú Costa,,25,5,0,Mallorca
+Portugal,K,25,DF,Nuno Mendes,,23,43,1,Paris Saint-Germain
+Portugal,K,26,FW,Francisco Conceição,,23,16,3,Juventus
+Uzbekistan,K,1,GK,Utkir Yusupov,,35,40,0,Navbahor Namangan
+Uzbekistan,K,2,DF,Abdukodir Khusanov,,22,27,0,Manchester City
+Uzbekistan,K,3,DF,Khojiakbar Alijonov,,29,40,2,Pakhtakor
+Uzbekistan,K,4,DF,Farrukh Sayfiev,,35,46,1,Neftchi Fergana
+Uzbekistan,K,5,DF,Rustam Ashurmatov,,29,49,1,Esteghlal
+Uzbekistan,K,6,MF,Akmal Mozgovoy,,27,25,1,Pakhtakor
+Uzbekistan,K,7,MF,Otabek Shukurov,,29,84,9,Baniyas
+Uzbekistan,K,8,MF,Jamshid Iskanderov,,32,38,4,Neftchi Fergana
+Uzbekistan,K,9,MF,Odiljon Hamrobekov,,30,72,1,Tractor
+Uzbekistan,K,10,MF,Jaloliddin Masharipov,,32,74,12,Esteghlal
+Uzbekistan,K,11,MF,Oston Urunov,,25,42,10,Persepolis
+Uzbekistan,K,12,GK,Abduvohid Nematov,,25,8,0,Nasaf
+Uzbekistan,K,13,DF,Sherzod Nasrullaev,,27,31,2,Nasaf
+Uzbekistan,K,14,FW,Eldor Shomurodov (captain),,30,92,44,İstanbul Başakşehir
+Uzbekistan,K,15,DF,Umar Eshmurodov,,33,29,0,Nasaf
+Uzbekistan,K,16,GK,Botirali Ergashev,,30,2,0,Neftchi Fergana
+Uzbekistan,K,17,MF,Dostonbek Khamdamov,,29,34,5,Pakhtakor
+Uzbekistan,K,18,DF,Abdulla Abdullaev,,28,17,0,Dibba
+Uzbekistan,K,19,MF,Azizjon Ganiev,,28,19,0,Al Bataeh
+Uzbekistan,K,20,FW,Azizbek Amonov,,28,12,2,Dinamo Samarqand
+Uzbekistan,K,21,FW,Igor Sergeev,,33,83,25,Persepolis
+Uzbekistan,K,22,MF,Abbosbek Fayzullaev,,22,32,8,İstanbul Başakşehir
+Uzbekistan,K,23,MF,Sherzod Esanov,,23,1,0,Bukhara
+Uzbekistan,K,24,DF,Bekhruz Karimov,,18,2,0,Surkhon Termiz
+Uzbekistan,K,25,DF,Avazbek Ulmasaliev,,26,0,0,AGMK
+Uzbekistan,K,26,DF,Jakhongir Urozov,,22,4,0,Dinamo Samarqand
+Croatia,L,1,GK,Dominik Livaković,,31,75,0,Dinamo Zagreb
+Croatia,L,2,DF,Josip Stanišić,,26,31,0,Bayern Munich
+Croatia,L,3,DF,Marin Pongračić,,28,20,0,Fiorentina
+Croatia,L,4,DF,Joško Gvardiol,,24,48,4,Manchester City
+Croatia,L,5,DF,Duje Ćaleta-Car,,29,38,1,Real Sociedad
+Croatia,L,6,DF,Josip Šutalo,,26,33,0,Ajax
+Croatia,L,7,MF,Nikola Moro,,28,10,0,Bologna
+Croatia,L,8,MF,Mateo Kovačić,,32,113,5,Manchester City
+Croatia,L,9,FW,Andrej Kramarić,,34,116,36,TSG Hoffenheim
+Croatia,L,10,MF,Luka Modrić (captain),,40,198,29,Milan
+Croatia,L,11,FW,Ante Budimir,,34,38,6,Osasuna
+Croatia,L,12,GK,Ivor Pandur,,26,0,0,Hull City
+Croatia,L,13,MF,Nikola Vlašić,,28,63,10,Torino
+Croatia,L,14,FW,Ivan Perišić,,37,154,38,PSV Eindhoven
+Croatia,L,15,MF,Mario Pašalić,,31,85,12,Atalanta
+Croatia,L,16,MF,Martin Baturina,,23,19,1,Como
+Croatia,L,17,MF,Petar Sučić,,22,17,1,Inter Milan
+Croatia,L,18,DF,Kristijan Jakić,,29,17,2,FC Augsburg
+Croatia,L,19,MF,Toni Fruk,,25,7,1,Rijeka
+Croatia,L,20,FW,Igor Matanović,,23,9,2,SC Freiburg
+Croatia,L,21,MF,Luka Sučić,,23,21,1,Real Sociedad
+Croatia,L,22,DF,Luka Vušković,,19,5,1,Hamburger SV
+Croatia,L,23,GK,Dominik Kotarski,,26,4,0,Copenhagen
+Croatia,L,24,FW,Marco Pašalić,,25,15,1,Orlando City SC
+Croatia,L,25,DF,Martin Erlić,,28,13,1,Midtjylland
+Croatia,L,26,FW,Petar Musa,,28,11,1,FC Dallas
+England,L,1,GK,Jordan Pickford,,32,83,0,Everton
+England,L,2,DF,Ezri Konsa,,28,19,1,Aston Villa
+England,L,3,DF,Nico O'Reilly,,21,4,0,Manchester City
+England,L,4,MF,Declan Rice,,27,72,6,Arsenal
+England,L,5,DF,John Stones,,32,88,3,Manchester City
+England,L,6,DF,Marc Guéhi,,25,28,1,Manchester City
+England,L,7,FW,Bukayo Saka,,24,48,14,Arsenal
+England,L,8,MF,Elliot Anderson,,23,8,0,Nottingham Forest
+England,L,9,FW,Harry Kane (captain),,32,113,79,Bayern Munich
+England,L,10,MF,Jude Bellingham,,22,47,6,Real Madrid
+England,L,11,FW,Marcus Rashford,,28,71,18,Barcelona
+England,L,12,DF,Tino Livramento,,23,6,0,Newcastle United
+England,L,13,GK,Dean Henderson,,29,4,0,Crystal Palace
+England,L,14,MF,Jordan Henderson,,35,90,3,Brentford
+England,L,15,DF,Dan Burn,,34,7,0,Newcastle United
+England,L,16,MF,Kobbie Mainoo,,21,13,0,Manchester United
+England,L,17,MF,Morgan Rogers,,23,14,1,Aston Villa
+England,L,18,FW,Anthony Gordon,,25,18,2,Newcastle United
+England,L,19,FW,Ollie Watkins,,30,21,6,Aston Villa
+England,L,20,FW,Noni Madueke,,24,10,1,Arsenal
+England,L,21,MF,Eberechi Eze,,27,16,3,Arsenal
+England,L,22,FW,Ivan Toney,,30,8,1,Al-Ahli
+England,L,23,GK,James Trafford,,23,2,0,Manchester City
+England,L,24,DF,Reece James,,26,23,1,Chelsea
+England,L,25,DF,Djed Spence,,25,5,0,Tottenham Hotspur
+England,L,26,DF,Jarell Quansah,,23,2,0,Bayer Leverkusen
+Ghana,L,1,GK,Lawrence Ati-Zigi,,29,29,0,St. Gallen
+Ghana,L,2,DF,Alidu Seidu,,26,24,1,Rennes
+Ghana,L,3,MF,Caleb Yirenkyi,,20,11,1,Nordsjælland
+Ghana,L,4,DF,Jonas Adjetey,,22,10,0,VfL Wolfsburg
+Ghana,L,5,MF,Thomas Partey,,32,57,15,Villarreal
+Ghana,L,6,DF,Abdul Mumin,,28,5,0,Rayo Vallecano
+Ghana,L,7,FW,Abdul Fatawu,,22,28,3,Leicester City
+Ghana,L,8,MF,Kwasi Sibo,,27,8,0,Oviedo
+Ghana,L,9,FW,Jordan Ayew (captain),,34,120,34,Leicester City
+Ghana,L,10,FW,Brandon Thomas-Asante,,27,8,1,Coventry City
+Ghana,L,11,MF,Antoine Semenyo,,26,34,3,Manchester City
+Ghana,L,12,GK,Joseph Anang,,26,1,0,St Patrick's Athletic
+Ghana,L,13,FW,Christopher Bonsu Baah,,21,9,0,Al-Qadsiah
+Ghana,L,14,DF,Gideon Mensah,,27,40,0,Auxerre
+Ghana,L,15,MF,Elisha Owusu,,28,20,0,Auxerre
+Ghana,L,16,GK,Benjamin Asare,,33,11,0,Hearts of Oak
+Ghana,L,17,DF,Abdul Rahman Baba,,31,51,1,PAOK
+Ghana,L,18,DF,Jerome Opoku,,27,11,1,İstanbul Başakşehir
+Ghana,L,19,FW,Iñaki Williams,,31,26,2,Athletic Bilbao
+Ghana,L,20,MF,Augustine Boakye,,25,0,0,Saint-Étienne
+Ghana,L,21,DF,Kojo Peprah Oppong,,22,4,0,Nice
+Ghana,L,22,FW,Kamaldeen Sulemana,,24,28,1,Atalanta
+Ghana,L,23,DF,Derrick Luckassen,,30,1,0,Pafos
+Ghana,L,24,FW,Ernest Nuamah,,22,18,4,Lyon
+Ghana,L,25,FW,Prince Kwabena Adu,,22,5,0,Viktoria Plzeň
+Ghana,L,26,DF,Marvin Senaya,,25,2,0,Auxerre
+Panama,L,1,GK,Luis Mejía,,35,56,0,Nacional
+Panama,L,2,DF,César Blackman,,28,40,3,Slovan Bratislava
+Panama,L,3,DF,José Córdoba,,25,32,1,Norwich City
+Panama,L,4,DF,Fidel Escobar,,31,99,4,Saprissa
+Panama,L,5,DF,Edgardo Fariña,,24,18,0,Pari Nizhny Novgorod
+Panama,L,6,MF,Cristian Martínez,,29,66,2,Ironi Kiryat Shmona
+Panama,L,7,MF,José Luis Rodríguez,,27,70,8,Juárez
+Panama,L,8,MF,Adalberto Carrasquilla,,27,73,3,UNAM
+Panama,L,9,FW,Tomás Rodríguez,,27,13,4,Saprissa
+Panama,L,10,MF,Ismael Díaz,,29,57,17,León
+Panama,L,11,MF,Yoel Bárcenas,,32,104,10,Mazatlán
+Panama,L,12,GK,César Samudio,,32,5,0,Marathón
+Panama,L,13,DF,Jiovany Ramos,,29,23,2,Puerto Cabello
+Panama,L,14,DF,Carlos Harvey,,26,28,3,Minnesota United FC
+Panama,L,15,DF,Eric Davis,,35,107,9,Plaza Amador
+Panama,L,16,DF,Andrés Andrade,,27,50,1,LASK
+Panama,L,17,FW,José Fajardo,,32,68,17,Universidad Católica
+Panama,L,18,FW,Cecilio Waterman,,35,55,15,Universidad de Concepción
+Panama,L,19,MF,Alberto Quintero,,38,141,7,Plaza Amador
+Panama,L,20,MF,Aníbal Godoy (captain),,36,159,4,San Diego FC
+Panama,L,21,MF,César Yanis,,30,56,5,Cobresal
+Panama,L,22,GK,Orlando Mosquera,,31,48,0,Al-Fayha
+Panama,L,23,DF,Michael Amir Murillo,,30,94,9,Beşiktaş
+Panama,L,24,FW,Azarias Londoño,,24,11,0,Universidad Católica
+Panama,L,25,DF,Roderick Miller,,34,50,2,Turan Tovuz
+Panama,L,26,DF,Jorge Gutiérrez,,27,18,0,Deportivo La Guaira

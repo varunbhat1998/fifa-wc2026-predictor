@@ -1,0 +1,49 @@
+team,manager,nationality,age,tenure_months,matches_in_charge,career_win_pct,big_match_experience,formation,style,attack_axis,possession_axis
+Mexico,Javier Aguirre,Mexico,67,23,95,0.55,8,4-3-3,balanced,0,0
+South Africa,Hugo Broos,Belgium,73,48,42,0.45,6,4-2-3-1,counter,-1,-1
+South Korea,Hong Myung-bo,South Korea,56,22,25,0.6,5,4-3-3,high_press,1,1
+Czech Republic,Ivan Hašek,Czech Republic,61,14,17,0.5,4,4-2-3-1,balanced,0,0
+Canada,Jesse Marsch,United States,52,26,30,0.58,5,4-2-3-1,high_press,1,1
+Bosnia and Herzegovina,Sergej Barbarez,Bosnia and Herzegovina,54,19,16,0.45,3,4-3-3,balanced,0,0
+Qatar,Bartolomé Márquez,Spain,47,18,14,0.5,3,4-3-3,possession,1,1
+Switzerland,Murat Yakin,Switzerland,51,50,42,0.55,7,3-4-2-1,balanced,0,0
+Brazil,Carlo Ancelotti,Italy,66,14,12,0.65,10,4-3-3,balanced,1,1
+Morocco,Walid Regragui,Morocco,50,46,35,0.6,8,4-3-3,counter,0,-1
+Haiti,Sébastien Migné,France,50,17,14,0.4,2,4-4-2,counter,-1,-1
+Scotland,Steve Clarke,Scotland,62,88,67,0.52,6,3-4-2-1,counter,0,-1
+United States,Mauricio Pochettino,Argentina,53,22,24,0.56,8,4-2-3-1,high_press,1,1
+Paraguay,Gustavo Alfaro,Argentina,63,18,17,0.5,6,4-4-2,counter,-1,-1
+Australia,Tony Popovic,Australia,52,18,16,0.55,5,4-3-3,balanced,0,0
+Turkey,Vincenzo Montella,Italy,51,23,22,0.5,6,4-2-3-1,possession,1,1
+Germany,Julian Nagelsmann,Germany,38,32,30,0.55,8,4-2-3-1,high_press,1,1
+Curacao,Dick Advocaat,Netherlands,78,8,8,0.55,9,4-3-3,balanced,0,0
+Ivory Coast,Emerse Faé,Ivory Coast,41,30,26,0.58,6,4-3-3,balanced,0,0
+Ecuador,Sebastián Beccacece,Argentina,45,18,17,0.55,5,4-3-3,balanced,0,0
+Netherlands,Ronald Koeman,Netherlands,62,32,28,0.55,9,4-3-3,possession,1,2
+Japan,Hajime Moriyasu,Japan,57,84,67,0.55,7,3-4-2-1,high_press,1,1
+Sweden,Jon Dahl Tomasson,Denmark,49,14,13,0.5,4,4-3-3,high_press,1,1
+Tunisia,Sami Trabelsi,Tunisia,57,16,14,0.5,4,4-2-3-1,balanced,0,0
+Belgium,Rudi Garcia,France,61,14,12,0.55,6,4-3-3,possession,1,1
+Egypt,Hossam Hassan,Egypt,59,24,22,0.55,6,4-3-3,balanced,0,0
+Iran,Amir Ghalenoei,Iran,62,30,28,0.55,5,4-3-3,counter,0,-1
+New Zealand,Darren Bazeley,England,53,26,22,0.45,3,4-3-3,balanced,0,0
+Spain,Luis de la Fuente,Spain,64,35,36,0.62,8,4-3-3,possession,1,2
+Cape Verde,Pedro Leitão Brito,Cape Verde,53,35,31,0.5,4,4-3-3,balanced,0,0
+Saudi Arabia,Hervé Renard,France,57,8,8,0.55,7,4-3-3,counter,0,-1
+Uruguay,Marcelo Bielsa,Argentina,70,28,28,0.55,9,3-3-3-1,high_press,2,1
+France,Didier Deschamps,France,57,169,165,0.66,10,4-2-3-1,balanced,0,0
+Senegal,Pape Thiaw,Senegal,44,14,12,0.55,4,4-3-3,balanced,0,0
+Iraq,Graham Arnold,Australia,62,14,12,0.5,5,4-3-3,balanced,0,0
+Norway,Ståle Solbakken,Norway,57,60,50,0.55,6,4-3-3,balanced,0,0
+Argentina,Lionel Scaloni,Argentina,47,88,78,0.7,10,4-3-3,possession,1,1
+Algeria,Vladimir Petković,Bosnia and Herzegovina,62,19,17,0.5,6,4-3-3,balanced,0,0
+Austria,Ralf Rangnick,Germany,67,38,33,0.6,7,4-2-2-2,high_press,2,1
+Jordan,Jamal Sellami,Morocco,55,20,17,0.5,3,4-3-3,balanced,0,0
+Portugal,Roberto Martínez,Spain,52,32,28,0.62,8,4-3-3,possession,1,2
+DR Congo,Sébastien Desabre,France,49,25,22,0.5,4,4-3-3,balanced,0,0
+Uzbekistan,Timur Kapadze,Uzbekistan,44,18,16,0.55,3,4-3-3,balanced,0,0
+Colombia,Néstor Lorenzo,Argentina,60,38,35,0.6,7,4-2-3-1,possession,1,1
+England,Thomas Tuchel,Germany,52,14,12,0.62,9,4-3-3,high_press,1,1
+Croatia,Zlatko Dalić,Croatia,59,96,88,0.6,9,4-3-3,possession,1,1
+Ghana,Otto Addo,Ghana,50,20,18,0.5,4,4-3-3,balanced,0,0
+Panama,Thomas Christiansen,Spain,52,38,35,0.55,5,4-3-3,balanced,0,0
