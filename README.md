@@ -125,10 +125,6 @@ Tuning knobs live in `.env` too — `ODDS_BLEND`, `DC_RHO`, `DRAW_BOOST`, `CAL_B
 | `match_bot.py`            | Async Telegram bot |
 | `tip_optimizer.py`        | Dixon–Coles + odds blend + KO-aware EV grid |
 
-## Architecture note
-
-Mirrors the sibling IPL predictor at `../ipl_predictor/` — same numbered-pipeline convention, same async bot pattern, same `.env`-driven tuning knobs. If you're familiar with one, the other reads the same way.
-
 ## License
 
 MIT — do what you want, no warranty. See `LICENSE`.
